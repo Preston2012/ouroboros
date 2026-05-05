@@ -79,3 +79,17 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ```
 Winters, P. T. (2026). Ouroboros: A Vision for Planetary Governance That Compounds on Behalf of Humanity (Version 1.0). https://github.com/[your-username]/ouroboros-vision
 ```
+
+
+---
+
+## Related work
+
+This document does not exist in isolation. It sits alongside two other open-source projects, each addressing a different layer of the same problem.
+
+- **[Demiurge](https://github.com/Preston2012/demi).** The refusal-first memory engine that makes Layer 1 personal companion architecture implementable. Open-source. TypeScript + SQLite + ONNX. Ships as MCP server + REST API.
+- **[AI Council](https://github.com/Preston2012/ai-council).** The multi-model orchestration methodology used to draft, audit, and refine this document. Same method, 500+ sessions, applied to building production software.
+
+Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec + benchmark for personal AI memory providers. Operationalizes the personal companion privacy commitments in §III.
+
+[Preston Winters](https://github.com/Preston2012). Solo author. Critique welcome at [preston@baseline.marketing](mailto:preston@baseline.marketing).
