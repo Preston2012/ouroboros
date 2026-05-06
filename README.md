@@ -12,7 +12,9 @@
 
 ## What this is
 
-A proposed architecture for governance that can keep pace with the technology reshaping human life. It is not a manifesto. It is not a movement. It is a working draft of a system, offered for refinement, contestation, and improvement.
+A proposed architecture for governance that can keep pace with the technology reshaping human life.
+
+This is a working draft. Not a manifesto, not a movement. Offered for refinement, contestation, and improvement.
 
 ## Why now
 
@@ -56,17 +58,15 @@ Major foundational questions remain unspecified. Consortium selection for the AI
 
 ## How to engage
 
-Read the full document. Find what's wrong with it. Propose better. Tear into specific sections, name specific problems, offer specific fixes. Or build something different, based on what's right here and what isn't.
+Read the document and tear into it. Specific sections, specific problems, specific fixes. Or take what's useful and build something different.
 
 The document was built with a four-model adversarial council audit (GPT, Gemini, Grok, Claude) across three rounds before public release. The architecture survived the audit. The framing keeps adapting. The work continues.
 
-**Open an Issue** to name a specific problem.
-**Open a Pull Request** to propose specific text changes.
-**Use Discussions** for broader conversations about the architecture.
+Issues for specific problems. PRs for text changes. Discussions for the broader conversation.
 
 ## Author
 
-Preston T. Winters, solo product builder, Coos County, Oregon. Co-authored with Claude (Anthropic) over multiple working sessions. No organization behind this. No funding ask. No movement to join. The document is offered into the conversation that humanity is not yet having seriously enough.
+Preston T. Winters, solo product builder, Coos County, Oregon. Co-authored with Claude (Anthropic) over multiple working sessions. No organization behind this, no funding ask. The document is offered into a conversation humanity is not yet having seriously enough.
 
 The window is closing. Better governance will not arrive on its own.
 
@@ -77,7 +77,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: A Vision for Planetary Governance That Compounds on Behalf of Humanity (Version 1.0). https://github.com/[your-username]/ouroboros-vision
+Winters, P. T. (2026). Ouroboros: A Vision for Planetary Governance That Compounds on Behalf of Humanity (Version 1.0). https://github.com/Preston2012/ouroboros
 ```
 
 
