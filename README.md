@@ -92,4 +92,4 @@ This document does not exist in isolation. It sits alongside two other open-sour
 
 Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec + benchmark for personal AI memory providers. Operationalizes the personal companion privacy commitments in §III.
 
-[Preston Winters](https://github.com/Preston2012). Solo author. Critique welcome at [preston@baseline.marketing](mailto:preston@baseline.marketing).
+[Preston Winters](https://github.com/Preston2012). Solo author. Critique welcome at [preston@winterscode.com](mailto:preston@winterscode.com).
