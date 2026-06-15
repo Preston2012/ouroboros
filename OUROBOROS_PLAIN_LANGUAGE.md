@@ -1,0 +1,53 @@
+# Ouroboros, in Plain Language
+
+*A short explainer of the full vision document. For anyone, no background needed.*
+
+---
+
+## Where we are
+
+The systems that are supposed to represent us mostly don't anymore. Money and lobbying steer them. Public trust has cratered, and each side is sure the other is rigging the game. At the same time the most powerful technology in history, AI, is arriving fast, and the people building it say openly that they cannot rule out it going very badly. The way we govern ourselves was not built for any of this, and patching it one law at a time is too slow to matter.
+
+Something is going to replace the systems that are failing. The only real question is whether we build the replacement on purpose, or let it fall to whoever grabs the most power first.
+
+Ouroboros is an attempt to build it on purpose.
+
+---
+
+## The idea
+
+A way to govern ourselves that uses AI as a tool, keeps humans in charge of every real decision, gives everyone a solid floor to stand on, and repairs itself on a schedule instead of rotting. It is named after the old image of a snake eating its own tail, because it is designed to renew itself: to find its own flaws and fix them, again and again, by design.
+
+It rests on a few plain commitments.
+
+- **Everyone counts the same.** One person, one vote. Influence cannot be bought.
+- **Everyone gets a floor first.** Food, water, shelter, healthcare, education, energy, and information are shared basics. You cannot take part in running things while you are sick, broke, or cut off.
+- **AI helps. Humans rule.** Every AI in the system is a tool. People make the decisions.
+- **No power lasts.** Every authority expires and has to be earned again. Nothing is permanent.
+- **It is a floor, not a ceiling.** It exists to stop catastrophes, not to run your life. Your life stays yours.
+
+---
+
+## How it works
+
+**You get your own AI.** A personal assistant that belongs to you, helps you understand the issues and think through your vote, and keeps everything you tell it private. It works for you. It never reports on you to anyone.
+
+**People hold the top.** Two things at once: all of us, every verified person, voting; and one elected human, a role closer to a referee than a ruler. That person brokers agreement, speaks for the system, and can call for emergency help, but cannot pass a law, raise a tax, spend a dollar, or punish anyone alone. If trust in them falls, they face a fresh election or removal.
+
+**Three groups do the work, and they argue on purpose.** A rotating panel of ordinary citizens. A set of AIs that each represent a community, trained on its real history and values. And a watchdog of thirteen independent AIs, built to disagree with one another so none can quietly take control. None of the three runs the show. Each keeps the other two honest.
+
+**The big decisions come to all of us.** Any of the three groups can hit pause on the leader. Reversing a decision goes to the public. Emergencies take a high bar to authorize, and the gravest or most permanent actions go to a vote of everyone. The AIs can never launch an emergency power on their own. A human always has to be the one who acts.
+
+**It rewards solving problems.** Alongside the rules, it puts up prizes for anyone who cracks a shared problem, from curing a disease to fixing a broken system.
+
+The whole design assumes, from day one, that people will try to capture it. So power is split among groups that check each other, every authority is public and time-limited and removable, no AI can ever overrule a human, and every five years the entire system audits itself in the open and can be rewritten. Communities join only if they choose to, and it governs only the ones that say yes. It even names its own hardest unsolved problem out loud, that someone has to start it and there is no perfectly fair way to do that, because a system that hides its weak points cannot be trusted to fix them.
+
+---
+
+## The work ahead
+
+One person sketched this. It will take far more than one to build it, sharpen it, tear into it, and make it real. That is the point. The systems we have are failing the people they were meant to serve, the tools to do better finally exist, and the window to use them is open right now.
+
+Here is one serious blueprint, in public, for anyone who wants governance to work better than what we inherited. Take it apart. Make it stronger. Build the version that deserves to win.
+
+*The full architecture, with every mechanism and every open question, is in the complete vision document.*
