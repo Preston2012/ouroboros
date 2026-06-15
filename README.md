@@ -4,7 +4,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-📄 **Read the full vision:** [Ouroboros v2.0](./OUROBOROS_VISION_v2.md)
+📄 **Read the full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf)
 
 🌱 **New here?** Start with the [plain-language explainer](./OUROBOROS_PLAIN_LANGUAGE.md). A few minutes, no background needed.
 
