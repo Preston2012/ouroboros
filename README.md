@@ -4,9 +4,9 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-📄 **Read the full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf)
+⚡ **Start here:** [Ouroboros in Brief](./OUROBOROS_IN_BRIEF.md) | [PDF](./OUROBOROS_IN_BRIEF.pdf). The whole idea in five minutes.
 
-🌱 **New here?** Start with the [plain-language explainer](./OUROBOROS_PLAIN_LANGUAGE.md). A few minutes, no background needed.
+📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
 
 📝 **Current version:** v2.0 (June 15, 2026). v1.0 is [archived](./archive/).
 

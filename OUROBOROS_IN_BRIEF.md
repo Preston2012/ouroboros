@@ -1,6 +1,6 @@
-# Ouroboros, in Plain Language
+# Ouroboros in Brief
 
-*A short explainer of the full vision document. For anyone, no background needed.*
+*The whole idea in five minutes. The complete architecture is in the full Vision document.*
 
 ---
 
