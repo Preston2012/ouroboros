@@ -1,6 +1,6 @@
 # Ouroboros
 
-### A Vision for Planetary Governance That Compounds on Behalf of Humanity
+### Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -85,7 +85,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: A Vision for Planetary Governance That Compounds on Behalf of Humanity (Version 2.0). https://github.com/Preston2012/ouroboros
+Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.0). https://github.com/Preston2012/ouroboros
 ```
 
 ---
