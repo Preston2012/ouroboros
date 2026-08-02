@@ -8,7 +8,7 @@
 
 📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
 
-📝 **Current version:** v2.3 (amended August 3, 2026; v2.2 August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
+📝 **Current version:** v2.3 (amended August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
 
 🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
 

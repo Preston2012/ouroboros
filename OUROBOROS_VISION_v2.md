@@ -2,7 +2,7 @@
 
 ### Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent
 
-*Version 2.3, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01, 2026-08-02, and 2026-08-03 (see Appendix C).*
+*Version 2.3, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01 and 2026-08-02 (see Appendix C).*
 *Authored by Preston T. Winters with Claude (Anthropic)*
 *Supersedes Version 1.0. Open for refinement, contestation, and improvement through the standard process the document describes.*
 
@@ -712,7 +712,7 @@ Version 2.0 was released 2026-06-15. The amendments below were made 2026-08-01 a
 
 Every one of these amendments narrowed the engine's power, removed a claim I could not defend, or disclosed a cost that had been left unstated. None expanded its authority.
 
-### Amendments of 2026-08-03 (Version 2.3)
+### Amendments of 2026-08-02, later the same day (Version 2.3)
 
 **Voice corrected to first person.** This document opened in the first person and closed in the first person, and then switched to "the author" at four points in between. All four were places where it conceded something: the tension between urgency and consent on bounded capital, the same tension on the subsidy test, the compelled-speech difficulty on public-utility status, and the admission that this may only be an architecture for governance among the willing. Writing those in the third person distanced me from exactly the admissions that are supposed to be worth something, and it read as though someone else had inserted them. The conflict-of-interest disclosure had the same defect in the In Brief, the README, the Six Repairs one-pager, and the working brief, where a sentence I wrote about myself read like a compliance notice added by a third party. All of it is now first person, and the disclosure now states plainly that I stand to gain. No claim changed in this version. Hundreds of words did, and this entry exists so that a reader diffing 2.2 against 2.3 can tell the difference between a rewrite and a retreat.
 
