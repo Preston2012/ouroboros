@@ -32,7 +32,7 @@ Something is going to replace the systems that are failing. The only question is
 
 - **The foundation:** a personal AI companion for every human. Private, user-aligned, and never the engine's sensor. It is the cognitive infrastructure that makes one-person-one-vote a real franchise rather than a formal one.
 - **Tier 1, the human sovereigns:** the People (one human, one vote) and the Tribune (a single elected office, a broker and a check, not a ruler), co-equal, neither above the other. The Tribune holds no substantive power alone and can be paused, recalled, and replaced.
-- **Tier 2, the triadic instrument:** a rotating citizens' council, the per-community representative AIs, and a thirteen-member adversarial AI oversight body. Three peer branches, none sovereign, each keeping the other two honest.
+- **Tier 2, the triadic instrument:** a rotating citizens' council, the per-community representative AIs, and a twelve-member adversarial AI oversight body. Three peer branches, none sovereign, each keeping the other two honest.
 
 Power moves through one spine: a low-bar reversible pause any branch can pull, with reversal escalating to the People, and a high-bar gate for civilization-scale emergencies. The AIs can never start an emergency power on their own; a human always acts first.
 

@@ -34,7 +34,7 @@ It rests on a few plain commitments.
 
 **People hold the top.** Two things at once: all of us, every verified person, voting; and one elected human, a role closer to a referee than a ruler. That person brokers agreement, speaks for the system, and can call for emergency help, but cannot pass a law, raise a tax, spend a dollar, or punish anyone alone. If trust in them falls, they face a fresh election or removal.
 
-**Three groups do the work, and they argue on purpose.** A rotating panel of ordinary citizens. A set of AIs that each represent a community, trained on its real history and values. And a watchdog of thirteen independent AIs, built to disagree with one another so none can quietly take control. None of the three runs the show. Each keeps the other two honest.
+**Three groups do the work, and they argue on purpose.** A rotating panel of ordinary citizens. A set of AIs that each represent a community, trained on its real history and values. And a watchdog of twelve independent AIs, the size of a jury,, built to disagree with one another so none can quietly take control. None of the three runs the show. Each keeps the other two honest.
 
 **The big decisions come to all of us.** Any of the three groups can hit pause on the leader. Reversing a decision goes to the public. Emergencies take a high bar to authorize, and the gravest or most permanent actions go to a vote of everyone. The AIs can never launch an emergency power on their own. A human always has to be the one who acts.
 
