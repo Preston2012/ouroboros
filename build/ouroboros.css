@@ -1,0 +1,284 @@
+/* Ouroboros PDF stylesheet.
+   Rebuilt 2026-08-02 after the original was lost to a sandbox reset.
+   Palette sampled from the published PDFs: bone F3EEE3, ebony 16150F,
+   slate 3C3A33, ash 807C76, gold A8894C, pale gold D5C5A3.
+   Typeface Spectral, which the previous rebuild silently lost to a
+   DejaVu Serif fallback. */
+
+@font-face { font-family: Spectral; font-weight: 300; font-style: normal; src: url("fonts/Spectral-Light.ttf"); }
+@font-face { font-family: Spectral; font-weight: 400; font-style: normal; src: url("fonts/Spectral-Regular.ttf"); }
+@font-face { font-family: Spectral; font-weight: 500; font-style: normal; src: url("fonts/Spectral-Medium.ttf"); }
+@font-face { font-family: Spectral; font-weight: 600; font-style: normal; src: url("fonts/Spectral-SemiBold.ttf"); }
+@font-face { font-family: Spectral; font-weight: 700; font-style: normal; src: url("fonts/Spectral-Bold.ttf"); }
+@font-face { font-family: Spectral; font-weight: 400; font-style: italic; src: url("fonts/Spectral-Italic.ttf"); }
+@font-face { font-family: Spectral; font-weight: 600; font-style: italic; src: url("fonts/Spectral-SemiBoldItalic.ttf"); }
+
+:root {
+  --bone: #F3EEE3;
+  --ebony: #16150F;
+  --slate: #3C3A33;
+  --ash: #807C76;
+  --gold: #A8894C;
+  --palegold: #D5C5A3;
+}
+
+/* ---------- pages ---------- */
+
+@page {
+  size: letter;
+  margin: 1.0in 1.05in 1.0in 1.05in;
+  background: #F3EEE3;
+  @bottom-center {
+    content: counter(page);
+    font-family: Spectral, serif;
+    font-weight: 400;
+    font-size: 8.5pt;
+    color: #807C76;
+    letter-spacing: 0.08em;
+    margin-top: 0.28in;
+  }
+}
+
+@page cover {
+  margin: 0;
+  background: #000000;
+  @bottom-center { content: none; }
+}
+
+@page title {
+  margin: 1.5in 1.0in 1.0in 1.0in;
+  @bottom-center { content: none; }
+}
+
+/* ---------- base ---------- */
+
+html {
+  font-family: Spectral, serif;
+  font-weight: 400;
+  font-size: 11pt;
+  line-height: 1.58;
+  color: #16150F;
+}
+
+p { margin: 0 0 0.62em 0; text-align: justify; hyphens: auto; }
+
+strong { font-weight: 600; color: #3C3A33; }
+em { font-style: italic; }
+a { color: #16150F; text-decoration: none; }
+
+/* ---------- cover ---------- */
+
+.cover { page: cover; height: 11in; position: relative; }
+
+.cover-inner {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  text-align: center;
+}
+
+.cover img {
+  display: block;
+  width: 4.3in;
+  margin: 1.45in auto 0.55in auto;
+}
+
+.cover h1 {
+  font-family: Spectral, serif;
+  font-weight: 300;
+  font-size: 30pt;
+  letter-spacing: 0.30em;
+  text-indent: 0.30em;
+  color: #F3EEE3;
+  margin: 0 0 0.30in 0;
+  text-transform: uppercase;
+}
+
+.cover .desig {
+  font-weight: 400;
+  font-size: 11pt;
+  letter-spacing: 0.44em;
+  text-indent: 0.44em;
+  text-transform: uppercase;
+  color: #A8894C;
+  margin: -0.14in 0 0.30in 0;
+}
+.cover .desig:empty { display: none; margin: 0; }
+
+.cover .sub {
+  font-weight: 300;
+  font-size: 11pt;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #D5C5A3;
+  margin: 0 auto 0.62in auto;
+  width: 4.9in;
+  text-align: center;
+}
+
+.cover .rule {
+  width: 1.1in;
+  border-top: 0.5pt solid #A8894C;
+  margin: 0 auto 0.42in auto;
+}
+
+.cover .ver {
+  font-weight: 500;
+  font-size: 9.5pt;
+  letter-spacing: 0.34em;
+  text-indent: 0.34em;
+  color: #A8894C;
+  text-transform: uppercase;
+  margin: 0 0 0.34in 0;
+}
+
+.cover .byline {
+  font-weight: 400;
+  font-size: 9pt;
+  letter-spacing: 0.40em;
+  text-indent: 0.40em;
+  color: #F3EEE3;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+/* ---------- title page ---------- */
+
+.titlepage { page: title; text-align: center; }
+.titlepage h1 {
+  font-weight: 300;
+  font-size: 24pt;
+  letter-spacing: 0.22em;
+  text-indent: 0.22em;
+  text-transform: uppercase;
+  color: #16150F;
+  margin: 0 0 0.24in 0;
+}
+.titlepage .sub {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 12pt;
+  line-height: 1.45;
+  color: #3C3A33;
+  margin: 0 auto 0.5in auto;
+  width: 5.1in;
+  text-align: center;
+}
+.titlepage .rule { width: 1.4in; border-top: 0.5pt solid #A8894C; margin: 0 auto 0.5in auto; }
+.titlepage .meta {
+  font-weight: 400;
+  font-size: 10pt;
+  line-height: 1.9;
+  color: #3C3A33;
+  text-align: center;
+}
+.titlepage .meta .strongline { font-weight: 600; color: #16150F; }
+.titlepage .meta .quiet { color: #807C76; font-size: 9pt; letter-spacing: 0.04em; }
+
+/* ---------- body ---------- */
+
+.body { page: body; }
+
+h2 {
+  font-weight: 500;
+  font-size: 12.5pt;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  color: #16150F;
+  margin: 1.5em 0 0.16em 0;
+  padding-bottom: 0.30em;
+  border-bottom: 0.5pt solid #A8894C;
+  string-set: sect content();
+  page-break-after: avoid;
+  text-align: left;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 10.5pt;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: #3C3A33;
+  margin: 1.35em 0 0.45em 0;
+  page-break-after: avoid;
+  text-align: left;
+}
+
+h4 {
+  font-weight: 600;
+  font-size: 10.5pt;
+  color: #3C3A33;
+  margin: 1.1em 0 0.35em 0;
+  page-break-after: avoid;
+}
+
+ul, ol { margin: 0 0 0.7em 0; padding-left: 1.15em; }
+li { margin-bottom: 0.34em; text-align: justify; }
+ul li::marker { color: #A8894C; content: "\25C6\0020"; font-size: 0.72em; }
+ol li::marker { color: #A8894C; font-weight: 600; }
+li > ul, li > ol { margin-top: 0.34em; }
+
+hr {
+  border: none;
+  border-top: 0.5pt solid #D5C5A3;
+  width: 0.9in;
+  margin: 1.15em auto 1.3em auto;
+}
+
+blockquote {
+  margin: 0.9em 0.5in;
+  font-style: italic;
+  color: #3C3A33;
+  border-left: 1pt solid #A8894C;
+  padding-left: 0.22in;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.8em 0 1em 0;
+  font-size: 9.5pt;
+}
+th {
+  text-align: left;
+  font-weight: 600;
+  font-size: 8.5pt;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #16150F;
+  border-bottom: 0.75pt solid #A8894C;
+  padding: 0.32em 0.5em 0.32em 0;
+}
+td {
+  vertical-align: top;
+  padding: 0.34em 0.5em 0.34em 0;
+  border-bottom: 0.4pt solid #E0D9CA;
+  text-align: left;
+}
+
+code {
+  font-family: Spectral, serif;
+  font-size: 9.5pt;
+  color: #3C3A33;
+}
+pre {
+  background: #EAE4D6;
+  padding: 0.5em 0.7em;
+  font-size: 9pt;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+}
+
+/* ---------- In Brief treatment ---------- */
+
+.brief .body > p:first-of-type::first-letter,
+.brief .lede::first-letter {
+  font-weight: 600;
+  font-size: 3.0em;
+  line-height: 0.82;
+  float: left;
+  color: #A8894C;
+  padding: 0.04em 0.09em 0 0;
+}
+
+.brief h2 { font-size: 11.5pt; letter-spacing: 0.19em; }
+.brief html, .brief p { text-align: justify; }
