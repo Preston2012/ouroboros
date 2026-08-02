@@ -32,7 +32,7 @@ It uses AI, and the direction matters more than the fact. Humans decide. Machine
 
 The architecture behind them also commits to two things the six do not cover, because neither has polling: transition costs for automation-driven job loss falling on the firm that captures the gain, and the engine paying full unsubsidized cost for its own power and water with nothing built in a community that has not agreed to it.
 
-**Who wrote it.** One person. Preston T. Winters, Bandon, Oregon. No organization, no funding, no party. He also builds and sells AI software, including a personal assistant of the kind the architecture describes as public infrastructure. That is a conflict and you should weigh it. If someone builds a better version of that piece, they should win it.
+**Who wrote it.** I did, on my own. Preston T. Winters, Bandon, Oregon. No organization, no funding, no party. I also build and sell AI software, including a personal assistant of the kind the architecture describes as public infrastructure, so I stand to gain if this direction wins. That is a conflict and you should weigh it. If someone builds a better version of that piece than mine, they should win it.
 
 **Nothing is being asked.** Nobody is running this and there is nothing to join. If one of the six is useful where you are, take it. If you think the architecture is wrong, say so in writing, because opposition in the open is worth more to this than agreement.
 

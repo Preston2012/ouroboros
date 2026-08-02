@@ -1,7 +1,7 @@
 # Ouroboros in Brief
 
 *The whole idea in five minutes. The complete architecture is in the full Vision document.*
-*Version 2.2, current as of 2026-08-02. Summarizes Ouroboros Vision v2.2.*
+*Version 2.3, current as of 2026-08-03. Summarizes Ouroboros Vision v2.3.*
 
 ---
 
@@ -53,7 +53,7 @@ The whole design assumes, from day one, that people will try to capture it. So p
 
 ## The work ahead
 
-One person sketched this: Preston T. Winters. He also builds and sells AI software, including a memory engine and a personal assistant of the kind described above. That is a conflict and you should weigh it. The architecture is deliberately not tied to any company's product, and if someone builds a better version of that piece than his, they should win it. The point was never the products.
+I sketched this on my own. My name is Preston T. Winters. I also build and sell AI software, including a memory engine and a personal assistant of the kind described above, which means I stand to gain if this direction ever wins. That is a conflict and you should weigh it. I wrote the architecture so that it is not tied to any company's product, mine included, and if someone builds a better version of that piece than mine, they should win it. The point was never the products.
 
 It will take far more than one person to build this, sharpen it, tear into it, and make it real. That is by design. The systems we have are failing the people they were meant to serve, the tools to do better finally exist, and the window to use them is open right now.
 

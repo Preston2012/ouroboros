@@ -96,11 +96,11 @@ The direction it runs matters more than the fact of it. **AI does not decide. Hu
 
 Machines appear in the design because the coordination problems in front of us move faster than any legislature has ever moved, and because the demand that somebody govern artificial intelligence is one of the few things Americans agree on across every line. This is a proposal for how. It is not a proposal to be governed by it.
 
-## Who wrote this, and what he sells
+## Who wrote this, and what I sell
 
-One person. Preston T. Winters, Bandon, Oregon. No organization, no funding, no party.
+I wrote it, on my own. Preston T. Winters, Bandon, Oregon. No organization, no funding, no party.
 
-He also builds and sells AI software, including a memory engine and a personal companion of the kind the architecture describes as public infrastructure. That is a conflict and you should weigh it. The architecture is deliberately not tied to any provider, and if someone builds a better version of that layer, they should win it. The point was never the products.
+I also build and sell AI software, including a memory engine and a personal companion of the kind the architecture describes as public infrastructure, so I stand to gain if this direction wins. That is a conflict and you should weigh it. I wrote the architecture so that it is not tied to any provider, mine included, and if someone builds a better version of that layer than mine, they should win it. The point was never the products.
 
 ## What is being asked
 

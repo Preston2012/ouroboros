@@ -213,7 +213,7 @@ h4 {
 
 ul, ol { margin: 0 0 0.7em 0; padding-left: 1.15em; }
 li { margin-bottom: 0.34em; text-align: justify; }
-ul li::marker { color: #A8894C; content: "\25C6\0020"; font-size: 0.72em; }
+ul li::marker { color: #A8894C; content: "\2022\0020"; }
 ol li::marker { color: #A8894C; font-weight: 600; }
 li > ul, li > ol { margin-top: 0.34em; }
 
@@ -270,15 +270,8 @@ pre {
 
 /* ---------- In Brief treatment ---------- */
 
-.brief .body > p:first-of-type::first-letter,
-.brief .lede::first-letter {
-  font-weight: 600;
-  font-size: 3.0em;
-  line-height: 0.82;
-  float: left;
-  color: #A8894C;
-  padding: 0.04em 0.09em 0 0;
-}
+/* No drop cap. A floated ::first-letter overlaps the first line in
+   WeasyPrint rather than wrapping it. */
 
 .brief h2 { font-size: 11.5pt; letter-spacing: 0.19em; }
 .brief html, .brief p { text-align: justify; }
