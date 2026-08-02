@@ -6,6 +6,20 @@ Grading key. **A** means multiple independent non-advocacy polls with published 
 
 ---
 
+## 0. The framing statistics
+
+**Grade: B on each individually, A on the direction.** These are the numbers that open SIX_REPAIRS and the working brief. They were previously used without attribution, which was a defect in a document whose whole claim is that its sources are published.
+
+**Trust at twenty-five percent.** Fox News poll, fielded June 12 to 15, 2026, n=1,002 registered voters, margin of error 3 points. Twenty-five percent said they generally trust the federal government, seventy-four percent said they do not. Lowest in that series, which begins in 2002; the previous low was thirty-one percent in June 2023. Single-outlet polling, so grade B, and say whose poll it is when citing it.
+
+**Corroboration, which is why the direction grades A.** Marquette Law School Poll, June 9 to 15, 2026, n=1,514 adults, margin of error 2.7: across thirty national polls since 2021 the share trusting the government all or most of the time has averaged about twenty and a half percent. Pew describes the current measure as among the lowest in the nearly seven decades since the question was first asked. No serious source disputes that trust is at or near a record low.
+
+**Fifteen percent among under-thirties, and the no-say figure.** Harvard Youth Poll, 52nd edition, spring 2026, conducted by the Harvard Public Opinion Project, n=2,018 Americans aged 18 to 29, fielded March 26 to April 3, 2026. Trust in the federal government at fifteen percent, the lowest the poll has recorded. Sixty-eight percent say elected officials are motivated by selfish reasons. Fifty percent say people like them have no real say in what government does, up fifteen points from 2017, at fifty-three percent of Democrats, fifty-two percent of independents, and forty-eight percent of Republicans.
+
+**What not to claim.** These are two different surveys by two different organizations measuring two different populations. Do not present twenty-five percent and fifteen percent as points on one trend line, and do not extend the cross-party evenness beyond the no-say figure, which is the only one of them with published partisan cross-tabs in this set.
+
+---
+
 ## 1. End payment-based lobbying
 
 **Grade: A**
@@ -72,7 +86,9 @@ The only recent number found is 72% of Americans saying the credit system is unf
 
 **Anchor used instead:** the Federal Trade Commission's congressionally mandated study of credit report accuracy found that 21% of consumers had verified errors in their credit reports, 13% had errors that changed their credit score, and 5% had errors severe enough that they were denied credit or paid more for it. That is a documented federal finding about a system that gates housing, insurance, and in many cases employment.
 
-Secondary anchor, and evidence the reform is achievable: Colorado banned credit reporting of medical debt in 2023. Arizona voters passed Proposition 209 on medical debt by wide margin. Over half of debt-collection items on American credit reports have historically been medical. These are live, passed, surviving policies at the state level.
+Secondary anchor, with a live legal caveat: Colorado enacted the first state law in the country prohibiting consumer reporting agencies from including medical debt, HB 23-1126, effective August 2023, and other states followed. Over half of debt-collection items on American credit reports have historically been medical. In July 2025, in *Cornerstone Credit Union League v. CFPB*, the Eastern District of Texas vacated the parallel federal rule and stated in dicta that the Fair Credit Reporting Act preempts such state laws. The statement was unnecessary to the holding and carries no precedential force, and Berkeley's Center for Consumer Law and Economic Justice read it as written to encourage challenges. Cite Colorado as passed and in force, never as settled.
+
+**A correction to earlier versions of this appendix.** Arizona Proposition 209 was cited here as a medical-debt credit-reporting measure. It is not one. It is the Predatory Debt Collection Act: it capped medical-debt interest at three percent, limited wage garnishment to ten percent of disposable earnings, and raised the homestead exemption. It passed seventy-two to twenty-eight in November 2022. Use it as evidence that medical-debt reform wins at the ballot by a wide margin. Do not use it as credit-reporting precedent.
 
 ---
 
@@ -88,6 +104,8 @@ Supporting: Cato Institute, 2023. 60% want more control over the posts they see.
 
 **Cutting against:** the same Cato survey found 58% believe platform companies are better suited than government regulators to determine and enforce content rules. Change Research, fielded November and December 2025, n=1,991 adults, found 56% opposed to government regulation of social media.
 
+**A court has now drawn the same line.** In *X Corp. v. Bonta* the Ninth Circuit held California's content-category reporting requirement likely unconstitutional as compelled speech in September 2024, and a March 2025 consent judgment permanently barred its enforcement. Purely factual disclosure survives; requiring a platform to characterize its handling of contested categories does not. The framing rule below is now also the legal rule. The working brief carries the detail.
+
 **The rule this produces:** the repair survives when it is about *disclosure and user control*. It dies when it can be read as *government deciding what you may see*. Never let this repair drift toward content moderation, misinformation, or "harmful content." Those are the words that collapse it, and they collapse it asymmetrically: on misinformation regulation specifically, Cato found 80% of strong liberals in favor against 41% of strong conservatives. That is the widest partisan split anywhere near these six repairs and the repair must stay clear of it.
 
 ---
@@ -100,7 +118,7 @@ Supporting: Cato Institute, 2023. 60% want more control over the posts they see.
 | 2. Sunset | C | Early American practice, Colorado and Texas |
 | 3. Limits | A | Marist April 2026, 83% and 80%, both parties |
 | 4. Cures | B | Bipartisan-team poll, disclose the commissioner |
-| 5. Credit | C | FTC error rates, Colorado and Arizona |
+| 5. Credit | C | FTC error rates, Colorado in force |
 | 6. Feeds | B | 68% independent review, 60% want control |
 
 Two of six carry independent bipartisan polling with published cross-tabs. Two carry real polling that was paid for by people who wanted the answer. Two carry no polling and must argue from record and precedent instead.

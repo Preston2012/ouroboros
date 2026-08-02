@@ -1,6 +1,6 @@
 # SIX REPAIRS
 
-**Twenty-five percent of American voters say they trust the federal government. Among people under thirty it is fifteen percent, and half of them say people like them have no real say in what government does.** Those numbers split almost evenly across Democrats, Republicans, and independents. Whatever else divides this country, the sense of having no voice does not.
+**Twenty-five percent of American voters say they generally trust the federal government, the lowest reading in a series that runs back to 2002. Among Americans under thirty, a separate survey puts trust at fifteen percent, its own record low, and half of them say people like them have no real say in what government does.** That last figure splits almost evenly across Democrats, Republicans, and independents. Whatever else divides this country, the sense of having no voice does not. (Fox News, June 2026, registered voters. Harvard Youth Poll, spring 2026, ages 18 to 29. Both are single-outlet readings and both are named in the sources appendix.)
 
 This is not a disagreement about policy. It is a system that cannot repair itself from the inside, because the people who would have to pass the repair are the people the current arrangement rewards.
 
@@ -26,7 +26,7 @@ Two of these carry roughly eighty percent support with majorities in both partie
 
 **Three of the six can be adopted by a city, county, school board, or union local today. Three cannot, and two of those need a constitutional amendment, including the most popular one.** Knowing which is which before walking into a meeting is the difference between a win and a wasted year. The working brief sorts them.
 
-**What stands behind them, said here rather than found later.** These six are the near-term program of a larger proposal called Ouroboros: governance built to audit itself on a schedule, starting at community scale and expanding only where communities agree to it. One exception is named rather than buried: for a short list of civilization-ending threats it claims the power to make governments share information and take part in a joint response even if they never joined, and that power reaches governments and never people. It has no authority over anyone’s body, movement, home, business, school, or church, at any time, under any emergency.
+**What stands behind them, said here rather than found later.** These six are the near-term program of a larger proposal called Ouroboros: governance built to audit itself on a schedule, starting at community scale and expanding only where communities agree to it. One exception is named rather than buried: for a short list of civilization-ending threats it claims the power to make governments share information and take part in a joint response even if they never joined, and that power reaches governments and never people. It has no authority over anyone's body, movement, home, business, school, or church, at any time, under any emergency.
 
 It uses AI, and the direction matters more than the fact. Humans decide. Machines audit, and the audit body may publish what it finds and do nothing else with it. It cannot delay a vote, extend a deliberation, or label a source. Every response to a finding belongs to people. Every authority expires. Every five years the whole thing audits itself in public.
 

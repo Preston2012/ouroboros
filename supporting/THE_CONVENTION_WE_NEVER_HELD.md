@@ -6,11 +6,11 @@
 
 ## Where we are
 
-Twenty-five percent of American voters say they generally trust the federal government. That is the lowest reading in more than two decades.
+Twenty-five percent of American voters say they generally trust the federal government, against seventy-four percent who say they do not. That is the lowest reading in the Fox News series, which has asked the question since 2002 and had a previous low of thirty-one percent in 2023. It is one outlet's poll of registered voters and is presented as such. It is corroborated rather than contradicted by other work: the Marquette Law School Poll has averaged about twenty and a half percent trusting all or most of the time across thirty national polls since 2021, and Pew notes the current measure as among the lowest in the nearly seven decades the question has been asked.
 
-Among Americans under thirty it is fifteen percent, the lowest ever recorded in that survey. Half of them say people like them have no real say in what the government does. Two-thirds say elected officials act from selfish motives.
+Among Americans under thirty, a different survey reaches fifteen percent. The Harvard Youth Poll, spring 2026, found trust in the federal government at fifteen percent among 18-to-29-year-olds, its lowest recorded, with sixty-eight percent saying elected officials are motivated by selfish reasons. Half now say people like them have no real say in what the government does, up fifteen points from 2017.
 
-Those last figures split almost evenly across Democrats, Republicans, and independents. Whatever else divides this country, the sense of having no voice does not.
+These are two separate surveys by two organizations and should never be presented as one trend line. The figure that does the work here is the last one, and it splits almost evenly across party: fifty-three percent of Democrats, fifty-two percent of independents, and forty-eight percent of Republicans say they have no real say. Whatever else divides this country, the sense of having no voice does not.
 
 ## The diagnosis
 
@@ -64,11 +64,11 @@ This matters more than agreement, and getting it wrong wastes people's time. Thr
 
 **State legislature:**
 
-- **Repair 5, narrowly.** The federal Fair Credit Reporting Act preempts most state credit-reporting law, but medical debt has been carved out successfully: Colorado banned its reporting in 2023 and Arizona voters passed Proposition 209. That path is proven.
+- **Repair 5, narrowly, and the ground has moved.** The federal Fair Credit Reporting Act preempts most state credit-reporting law, and medical debt was the successful carve-out. Colorado enacted the first state law prohibiting consumer reporting agencies from including it, HB 23-1126, effective August 2023, and other states followed. Then in July 2025 a federal district court in the Eastern District of Texas vacated the parallel federal rule and said, in language unnecessary to its holding, that the Fair Credit Reporting Act preempts state laws barring agencies from furnishing coded medical debt. That statement carries no precedential force and consumer-law analysts read it as written to invite challenges, and practitioners have since flagged the newer state statutes as carrying real risk. Treat this path as available and litigable rather than proven, and get counsel on where your state sits. Arizona Proposition 209, cited here in earlier versions of this brief, is a debt-collection measure rather than a credit-reporting one: it capped medical-debt interest at three percent and raised collection exemptions. It passed seventy-two to twenty-eight, which makes it evidence that medical-debt reform wins at the ballot, and no evidence at all about credit reporting.
 
 **Federal, and constitutionally contested:**
 
-- **Repair 6.** After the 2024 *NetChoice* cases, algorithmic curation is treated as expressive activity by the platform. The surviving path is compelled disclosure of factual operating information, which is narrower than a mandate. Worth pursuing, worth knowing the ground.
+- **Repair 6.** After the 2024 *NetChoice* cases, algorithmic curation is treated as expressive activity by the platform. The surviving path is compelled disclosure of factual operating information, which is narrower than a mandate, and narrower again after *X Corp. v. Bonta*: in September 2024 the Ninth Circuit held California's content-category reporting requirement likely unconstitutional as compelled speech, and a consent judgment in March 2025 permanently barred enforcement of those provisions. A challenge to New York's analogous law has been before the Second Circuit. What survives is disclosure that is purely factual. What fails is any requirement that a platform characterize how it handles contested categories. That is the same line the sources appendix draws for framing reasons, and a court has now drawn it as law.
 - **Repair 4.** Bounty structures and procurement reform are federal work.
 
 **Requires a constitutional amendment, and no local body can do it:**
@@ -84,7 +84,7 @@ The six were chosen for measured cross-party support, and neither of the two thi
 
 **Displacement.** Where a firm's automation eliminates positions, that firm carries the retraining and income-bridge cost rather than the public. No public money or tax preference flows to automation that cuts jobs, tested on measured headcount at twelve and twenty-four months against a pre-deployment baseline rather than on a firm's stated intent. Firms above a size threshold report automation-attributable headcount change publicly, because nobody currently knows that number at any useful resolution. And the architecture says plainly what it cannot fix: an income floor keeps a person alive and does not give them back a place in the world.
 
-**Energy and siting.** Compute the architecture requires pays retail for power and water, takes no tax exemption, shifts no cost onto other ratepayers, and is built in no community that has not consented to it. Its footprint is published in absolute terms, estimated before construction and reconciled against measurement after. The estimate is in the document: roughly one terawatt-hour a year for the governance layers, roughly ten for a local-first companion layer, one to two orders of magnitude more if that layer were centralized instead, which is why local-first is written as a requirement.
+**Energy and siting.** Compute the architecture requires pays retail for power and water, takes no tax exemption, shifts no cost onto other ratepayers, and is built in no community that has not consented to it. Its footprint is published in absolute terms, estimated before construction and reconciled against measurement after. The estimate is in the document: roughly one terawatt-hour a year for the governance layers, roughly ten for a local-first companion layer, and roughly an order of magnitude more if that layer were centralized instead, which is why local-first is written as a requirement.
 
 Both are in section IV of the full document.
 
