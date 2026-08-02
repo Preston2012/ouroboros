@@ -2,7 +2,7 @@
 
 ### Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent
 
-*Version 2.3, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01 and 2026-08-02 (see Appendix C).*
+*Version 2.4, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01 and 2026-08-02 (see Appendix C).*
 *Authored by Preston T. Winters with Claude (Anthropic)*
 *Supersedes Version 1.0. Open for refinement, contestation, and improvement through the standard process the document describes.*
 
@@ -12,7 +12,7 @@
 
 This document proposes governance architecture that begins at community scale and is intended to remain usable at any scale a population consents to. Before describing the architecture, I name the conditions that make a new architecture necessary. Those conditions are global. I write as an American because that is the case I can speak to with the most authority. The pattern I describe operates in different forms across most current systems of governance.
 
-I am an American. The system I grew up in was designed to represent the public and increasingly does not. The two major parties have demonstrated, across decades and across administrations, that they are heavily influenced by lobbyists, donors, and concentrated industrial interests. Public trust has collapsed to historically low levels. Significant portions of each party's constituency now believe the other is operating in deeply corrupt frames; whether the specific accusations are true matters less than the fact that they are widely held. A governance system that has lost legitimacy this thoroughly is structurally unable to self-correct from within.
+I am an American. The system I grew up in was designed to represent the public and increasingly does not. The two major parties have demonstrated, across decades and across administrations, that they are heavily influenced by lobbyists, donors, and concentrated industrial interests. Public trust has collapsed to historically low levels: 25 percent of registered voters told Fox News in June 2026 that they generally trust the federal government, the lowest in a series running back to 2002, and the Marquette Law School Poll has averaged about 20 percent across thirty national polls since 2021. Significant portions of each party's constituency now believe the other is operating in deeply corrupt frames; whether the specific accusations are true matters less than the fact that they are widely held. A governance system that has lost legitimacy this thoroughly is structurally unable to self-correct from within.
 
 The captures are not abstract. The defense, healthcare, and agricultural sectors each operate with substantial lobbying capacity and direct relationships with the agencies that nominally regulate them. Approval processes, procurement, and policy frameworks are shaped in part by the entities they are supposed to constrain. This is not a partisan observation. The pattern holds across administrations and across both major parties.
 
@@ -20,7 +20,7 @@ Similar patterns appear in other democracies and in different forms in authorita
 
 The publicly-traded shareholder model of large-scale capital, as currently practiced, produces structural extraction incentives. Companies operating at planetary scale are governed under legal frameworks (notably Delaware-influenced corporate law) that treat shareholder-value maximization as the controlling norm. Returns flow to capital holders whose relationship to the enterprise is primarily financial, and the public-interest tradeoffs are systematically underweighted. The 2008 financial crisis, the opioid epidemic, well-documented patterns of climate-science suppression, and the surveillance-economy business model are familiar examples of this dynamic operating at scale.
 
-We are also now confronting artificial intelligence at civilizational scale. The leaders of the major AI labs have publicly assessed the risk as serious. Dario Amodei, CEO of Anthropic, has stated in public interviews (Axios AI+ DC Summit, September 2025) that he places the probability of AI development going "really, really badly" at roughly 25%. Elon Musk has stated his probability at approximately 20%. Sam Altman of OpenAI, Demis Hassabis of Google DeepMind, Dario Amodei, and hundreds of other AI researchers and executives signed the 2023 Center for AI Safety statement that "Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
+We are also now confronting artificial intelligence at civilizational scale. The leaders of the major AI labs have publicly assessed the risk as serious. Dario Amodei, CEO of Anthropic, has stated in public interviews (Axios AI+ DC Summit, September 2025) that he places the probability of AI development going "really, really badly" at roughly 25%. Elon Musk has put his as high as 20%, in figures that have moved over time. Sam Altman of OpenAI, Demis Hassabis of Google DeepMind, Dario Amodei, and hundreds of other AI researchers and executives signed the 2023 Center for AI Safety statement that "Mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
 
 These assessments come from the people building the systems. The architects of the technology are saying publicly that they cannot rule out outcomes that end or fundamentally degrade human civilization. Current governance systems are not equipped to evaluate, regulate, or coordinate around this class of risk on the timeline at which the technology is advancing.
 
@@ -28,7 +28,7 @@ The argument of this document is that humanity needs governance architecture abl
 
 The window is closing. Better governance will not arrive on its own. What replaces the captured systems will be built either deliberately, by people thinking honestly about what humanity needs, or by default through whoever moves first with the most resources. This document refuses the second path.
 
-**On this version.** Version 1.0 described the architecture as a four-layer stack. Version 2.0 restructures the governance stack into two tiers with a sharper line between who is sovereign and who is instrumental, and it resolves the open items that the first version left standing. The diagnosis above is unchanged. The commitments below are largely unchanged. What changed is the shape of the machine that keeps the commitments. Appendix B records the change in full.
+**On this version.** Version 1.0 described the architecture as a four-layer stack. Version 2.0 restructured the governance stack into two tiers with a sharper line between who is sovereign and who is instrumental. Versions 2.1 through 2.3 narrowed it further and corrected what would not hold. The diagnosis above is unchanged and the commitments below are largely unchanged; what has changed is the shape of the machine that keeps them, and what the document is willing to claim. Appendix B records the v2 restructure and Appendix C logs every amendment since, each with its reason.
 
 ---
 
@@ -60,7 +60,7 @@ This document holds a set of commitments to be defended. The commitments below c
 
 **The work of governance is to compound cooperation rather than extraction.** Coordination failures at scale produce predictable, repeating, and increasingly dangerous outcomes. The architecture below is built to make cooperative outcomes more available than extractive ones.
 
-**Coordination at planetary scale is now possible for the first time in recorded human history.** This brings unprecedented opportunity and unprecedented danger. The opportunity is to address coordination failures (climate, pandemic, war, AI risk, mass deprivation) that no single nation can address alone. The danger is that the same coordination capacity, captured, becomes the instrument of tyranny without precedent. The architecture below is built around this danger.
+**Coordination at planetary scale is newly possible, and at a speed and reach with no close precedent.** This brings unprecedented opportunity and unprecedented danger. The opportunity is to address coordination failures (climate, pandemic, war, AI risk, mass deprivation) that no single nation can address alone. The danger is that the same coordination capacity, captured, becomes the instrument of tyranny without precedent. The architecture below is built around this danger.
 
 **Artificial intelligence, deployed with care and constrained by humility, can serve as connective tissue for human cooperation. It cannot serve as substitute.** The line between connective tissue and substitute is the architecture's most important boundary. Version 2.0 draws that line by keeping every AI body in the lower tier, instrumental, never sovereign.
 
@@ -609,13 +609,13 @@ The architecture's response to coordinated authoritarian opposition, nuclear-arm
 
 ## CLOSING
 
-Ouroboros is an architecture for self-auditing governance that compounds on behalf of the people who adopt it rather than against them, at whatever scale they consent to. It is real, it is buildable, and it is defensible: a starting point solid enough to stand on for any humans, communities, or institutions ready to govern themselves better than the captured systems we inherited. It is not the last word, and it was never meant to be. It is meant to be built on.
+Ouroboros is an architecture for self-auditing governance that compounds on behalf of the people who adopt it rather than against them, at whatever scale they consent to. It is buildable, its sources are published, and the places it is weakest are named in it. It is offered to any humans, communities, or institutions looking for a way to govern themselves better than the captured systems we inherited. It is not the last word, and it was never meant to be. It is meant to be built on.
 
-Version 2.0 changed the shape of the machine without changing what the machine is for. The four-layer stack became two human-sovereign tiers on a Baseline foundation, because the most important line in the whole design is the line between the humans who govern and the instruments that serve, and the new shape draws that line where it belongs. The commitments did not move. The serpent renews itself by being eaten, and this is one of its sheddings.
+The version 2 line changed the shape of the machine without changing what the machine is for. The four-layer stack became two human-sovereign tiers on a Baseline foundation, because the line that matters most in the design is the one between the humans who govern and the instruments that serve. Every amendment since has narrowed the engine's power, withdrawn a claim I could not defend, or disclosed a cost that had been left unstated. None has expanded its authority. The commitments have not moved.
 
-The work of refining, contesting, and improving this architecture is itself part of the engine. We invite every good-faith critique and expect the document to be sharpened by it. What survives the corrections is the core: humanity deserves better coordination than its current systems provide, and AI can serve that coordination when it is held to humility and human dignity.
+The work of refining, contesting, and improving this architecture is itself part of the engine. I invite every good-faith critique and expect the document to be sharpened by it. What survives the corrections is the core: humanity deserves better coordination than its current systems provide, and AI can serve that coordination when it is held to humility and human dignity.
 
-I am one person. A solo product builder. I started this work because the systems we have are failing the people they claim to serve, and the tools to do better are now available for the first time in recorded human history. I see this architecture as taking the fundamentals the founding fathers were trying to portray and bringing them into the modern era before it is too late. I do not expect this document to be adopted as written. I expect it to be torn into, contested, refined, reshaped, and possibly replaced by something better that builds on what is here.
+I am one person. A solo product builder. I started this work because the systems we have are failing the people they claim to serve, and the tools to do better are now within reach of one person with a laptop, which was not true when I was born. The mechanism I am relying on is not mine and is not new. The founders wrote an amendment process into the Constitution because they did not believe they had finished, and it has been used seventeen times since the Bill of Rights. I am arguing that it should be used again, deliberately, and that the conditions for doing it carefully are better now than they will be later. I do not expect this document to be adopted as written. I expect it to be torn into, contested, refined, reshaped, and possibly replaced by something better that builds on what is here.
 
 What I want is for the conversation to happen. What I want is for alternatives to current governance to exist in writing, in public, in good faith. What I want is to not fuck this up.
 
@@ -711,6 +711,20 @@ Version 2.0 was released 2026-06-15. The amendments below were made 2026-08-01 a
 **Acknowledged limits.** Added: the engine has no answer to what a person is for when the work is gone, and holds that question outside its own authority.
 
 Every one of these amendments narrowed the engine's power, removed a claim I could not defend, or disclosed a cost that had been left unstated. None expanded its authority.
+
+### Amendments of 2026-08-02, third pass (Version 2.4)
+
+**Self-certification removed from the closing.** The closing asserted that this document is defensible and that it is a starting point solid enough to stand on. A document does not get to certify itself; a reader decides that. It now says what is checkable instead: that it is buildable, that its sources are published, and that the places it is weakest are named in it.
+
+**The claim on the founders was rewritten.** The closing previously said that I saw this architecture as taking the fundamentals the founding fathers were trying to portray and bringing them into the modern era before it was too late. That claimed their mantle, used the wrong verb for what they were doing, and attached a deadline of my own invention. What I can actually defend is the mechanism: they wrote an amendment process into the Constitution because they did not believe they had finished, it has been used seventeen times since the Bill of Rights, and I am arguing it should be used again deliberately. That is a matter of public record rather than a comparison I award myself.
+
+**Two unfalsifiable claims replaced.** The preamble said coordination at planetary scale is possible for the first time in recorded human history, and the closing said the same of the tools to do better. Neither can be defended. Both now describe the capability without the superlative.
+
+**Elon Musk's figure corrected.** The document stated his probability at approximately 20 percent. Axios, which is the source for the Amodei figure in the same paragraph, describes his as high as 20 percent, and his stated position has moved over time. The text now matches the record. The Amodei attribution was checked and is accurate as printed: 25 percent, the phrase quoted, at the Axios AI+ DC Summit, September 2025.
+
+**The trust claim is now sourced.** "Public trust has collapsed to historically low levels" sat unsourced in the opening argument, which is the same defect the supporting documents were corrected for on the second pass. It now carries the Fox News June 2026 reading and the Marquette multi-year average.
+
+**Version narration brought current.** The front matter and the closing both described Version 2.0 as the present state while the document was at 2.3, which reads as unmaintained. Both now describe the v2 line and point at the amendment log. A mixed metaphor in the closing, a serpent that renews itself by being eaten and sheds in the same sentence, was cut. One "we invite" in a single-author document written in the first person became "I invite."
 
 ### Amendments of 2026-08-02, later the same day (Version 2.3)
 

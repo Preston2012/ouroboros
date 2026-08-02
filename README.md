@@ -8,7 +8,7 @@
 
 📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
 
-📝 **Current version:** v2.3 (amended August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
+📝 **Current version:** v2.4 (amended August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
 
 🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
 
@@ -52,7 +52,7 @@ Power moves through one spine: a low-bar reversible pause any branch can pull, w
 
 ## What changed in v2
 
-v1.0 described a four-layer stack. v2.0 restructures the governance core into the two tiers above, drawing one line sharply: only humans are sovereign, every AI is instrument. It replaces the old fixed-threshold cross-tier veto with a reversible pause the People arbitrate, measures the single human office against a continuous Legitimacy Decay Index that drives election and recall, and adds a full succession and incapacity regime so the office can never be frozen, captured, or made permanent. Appendix B of the full document records the change in detail. Versions 2.1 through 2.3 then narrowed the architecture further, withdrew claims I could not defend, and disclosed costs that had been left unstated. Every one of those amendments is logged with its reason in Appendix C.
+v1.0 described a four-layer stack. v2.0 restructures the governance core into the two tiers above, drawing one line sharply: only humans are sovereign, every AI is instrument. It replaces the old fixed-threshold cross-tier veto with a reversible pause the People arbitrate, measures the single human office against a continuous Legitimacy Decay Index that drives election and recall, and adds a full succession and incapacity regime so the office can never be frozen, captured, or made permanent. Appendix B of the full document records the change in detail. Versions 2.1 through 2.4 then narrowed the architecture further, withdrew claims I could not defend, and disclosed costs that had been left unstated. Every one of those amendments is logged with its reason in Appendix C.
 
 ## What it deliberately does not do
 
@@ -89,7 +89,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.3). https://github.com/Preston2012/ouroboros
+Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.4). https://github.com/Preston2012/ouroboros
 ```
 
 ---
