@@ -38,7 +38,7 @@ Ouroboros is a proposed architecture for planetary-scale governance. Version 2.0
 
 **Tier 1, the sovereigns: the Tribune and the People, co-equal.** The People are the franchise: one human, one vote. The Tribune is a single elected human office that brokers convergence among the lower tier and the People, initiates emergency response, holds a check on the lower tier, and represents the system externally. Neither sovereign sits above the other. The Tribune can slow, return, or force re-deliberation of the People's decisions, but the Tribune can never override the substantive will of the franchise, and the Tribune can never legislate, tax, allocate resources, or sanction alone.
 
-**Tier 2, the triadic instrument: the Councils, the National AIs, and the Oversight.** Three peer branches in permanent tension, none of them sovereign, each checking the other two. The Councils are the human deliberative bodies. The National AIs are the per-community representative models. The Oversight is the thirteen-member adversarial audit body (public name: Audit Consortia; internal name: Demiurges), operating under a nine-of-thirteen supermajority quorum.
+**Tier 2, the triadic instrument: the Councils, the National AIs, and the Oversight.** Three peer branches in permanent tension, none of them sovereign, each checking the other two. The Councils are the human deliberative bodies. The National AIs are the per-community representative models. The Oversight is the thirteen-member adversarial audit body (public name: Audit Consortia), operating under a nine-of-thirteen supermajority quorum.
 
 **The foundation: a personal companion for every human.** The companion is not a governance tier. It is the per-person cognitive infrastructure of the Baseline, the thing that makes the People's sovereignty real rather than nominal. It belongs to the person, it is aligned to the person, and it is never the engine's sensor.
 
@@ -235,7 +235,7 @@ National AIs are retrained on a synchronized **five-year cadence**, with light t
 
 #### The Oversight (the Thirteen)
 
-Thirteen oversight AIs sit within the lower tier as the global audit branch. Public name: **Audit Consortia**. Internal name: **Demiurges**. Each is trained on overlapping but distinct global corpora by independent consortia drawn from different cultural and intellectual traditions. The number thirteen is chosen for adversarial fault tolerance: it permits failure tolerance up to four compromised members under a **nine-of-thirteen supermajority quorum**, with Reckoning-cycle replacement preventing accumulated drift. Quorum rules require supermajority agreement on any flag, mandatory minority reports, and full public dissent logs.
+Thirteen oversight AIs sit within the lower tier as the global audit branch. Public name: **Audit Consortia**. Each is trained on overlapping but distinct global corpora by independent consortia drawn from different cultural and intellectual traditions. The number thirteen is chosen for adversarial fault tolerance: it permits failure tolerance up to four compromised members under a **nine-of-thirteen supermajority quorum**, with Reckoning-cycle replacement preventing accumulated drift. Quorum rules require supermajority agreement on any flag, mandatory minority reports, and full public dissent logs.
 
 The Oversight's function is to:
 
@@ -542,9 +542,9 @@ For readers interested in the lineage of the architecture's commitments, this ap
 
 **Universal dignity** draws on the modern human rights tradition (Universal Declaration of Human Rights, 1948), and earlier from the imago Dei tradition in Abrahamic theology, the dignity-of-the-buddha-nature in Mahayana Buddhism, and the inherent-worth claims in Stoic and Kantian moral philosophy.
 
-**Compounding cooperation as the work of governance** draws on the broader Lurianic Kabbalistic concept of *tikkun olam* (world repair through gathered action) and on Aristotelian and Confucian conceptions of governance as cultivation of human flourishing through ordered cooperation.
+**Compounding cooperation as the work of governance** draws on Aristotelian and Confucian conceptions of governance as the cultivation of human flourishing through ordered cooperation, and on the modern literature on sustained cooperation under repeated interaction (Axelrod, Ostrom).
 
-**The principle that the engine prefers willing human cooperation as default mode, with explicit narrowly-scoped emergency-tier exceptions,** draws on cooperative-action traditions in Christian mysticism, Sufi *maqamat* and *ahwal*, Hindu and Vedic conceptions of *yajna* and dharmic action, and Iamblichan Neoplatonic *theurgy*.
+**The principle that the engine acts through willing cooperation as its default mode, with explicit narrowly-scoped emergency-tier exceptions,** draws on consent-of-the-governed theory (Locke), the principle of subsidiarity in modern federal practice, and the voluntary-association tradition in American civic life (Tocqueville).
 
 **One-vote-per-human as the franchise** draws on modern democratic theory (Rousseau, Mill, Rawls) with corrections from twentieth-century critiques (feminist political theory, decolonial scholarship).
 
@@ -560,7 +560,7 @@ For readers interested in the lineage of the architecture's commitments, this ap
 
 **Commons and Baseline** draw on welfare-state economics, Rawlsian justice theory, and the commons literature (Ostrom, et al.).
 
-**The serpent that renews itself by self-consumption** is the Ouroboros symbol, found in Egyptian iconography (the *Enigmatic Book of the Netherworld*), Greek alchemical tradition (Cleopatra the Alchemist), Norse mythology (Jörmungandr), Aztec cosmology, and Carl Jung's depth psychology. The meaning we name and commit to is renewal-by-self-consumption: a system that survives by continuously auditing and reforming itself.
+**The name.** Ouroboros means one thing here and the document commits to that one meaning: a system that survives by continuously auditing and reforming itself. Nothing else is implied and no other reading is authorized. The image of a serpent consuming its own tail is an old and widely reused one, appearing independently in Egyptian, Greek, Norse, and Mesoamerican iconography, and it was chosen because renewal-through-self-consumption is the single property this architecture is built around.
 
 The specific synthesis proposed here includes: the two-tier human-sovereign structure with the personal companion as Baseline foundation, the thirteen-member adversarial Oversight, the pause-and-escalate cross-tier spine with the People holding every reversal, the emergency gate of National-AI supermajority plus Oversight nine-of-thirteen with the Councils' one-shot brake, the succession-and-incapacity regime for a single office (caretaker for a vacancy, the People as the only override of a deciding Tribune, human-only emergency initiation, and fitness criteria fixed in advance behind a veil), the Legitimacy Decay Index as the continuous measure of standing, the inception-attack defense, the personal-companion privacy mode-switching, the Reckoning as scheduled audit-with-amendment, the public-principles-classified-instances rule, and the explicit two-tier consent model. These are the document's load-bearing contributions. Everything else is inherited and acknowledged as such.
 
@@ -573,7 +573,7 @@ Version 1.0 is the public release (CC BY-SA 4.0, on GitHub). Version 2.0 restruc
 **The core change.** Version 1.0 described a four-layer stack: the personal companion (Layer 1), the National representative AIs (Layer 2), the thirteen-member AI oversight council (Layer 3), and direct human ratification (Layer 4), with a rolling human council checking the oversight layer. Version 2.0 collapses this into two tiers on a Baseline foundation, with a sharper line between sovereign and instrument:
 
 - **Tier 1, the sovereigns:** the Tribune and the People, co-equal. The People are the franchise. The Tribune is a single elected human office that brokers convergence, initiates emergency response, holds a check on the lower tier, and represents the system externally.
-- **Tier 2, the triadic instrument:** the Councils (descendant of the rolling human council), the National AIs (former Layer 2), and the Oversight (former Layer 3; public name Audit Consortia, internal name Demiurges). Three peer branches in permanent tension, none sovereign.
+- **Tier 2, the triadic instrument:** the Councils (descendant of the rolling human council), the National AIs (former Layer 2), and the Oversight (former Layer 3; public name Audit Consortia). Three peer branches in permanent tension, none sovereign.
 - **The Baseline foundation:** the personal companion (former Layer 1) is no longer a governance tier. It persists beneath both tiers as the per-person infrastructure that makes informed participation possible, belonging to the person and never serving as the engine's sensor.
 
 The canonical diagram changed from a star to a pentagon.
