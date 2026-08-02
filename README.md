@@ -62,7 +62,7 @@ v1.0 described a four-layer stack. v2.0 restructures the governance core into th
 
 ## What's still open
 
-Real questions remain, and the document carries them in the open rather than behind confident assertions: consortium selection for the AI oversight body, specific economic transition mechanisms, the proof-of-humanity protocol specification, religious and spiritual authority navigation, and the architecture's response to coordinated authoritarian opposition. The hardest is named plainly: someone has to start it, and there is no perfectly fair way to do that.
+Real questions remain, and the document carries them in the open rather than behind confident assertions: consortium selection for the AI oversight body, specific economic transition mechanisms, the the One-Vote Standard protocol specification, religious and spiritual authority navigation, and the architecture's response to coordinated authoritarian opposition. The hardest is named plainly: someone has to start it, and there is no perfectly fair way to do that.
 
 ## How to engage
 

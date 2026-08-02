@@ -42,7 +42,7 @@ Ouroboros is a proposed architecture for self-auditing governance. It begins at 
 
 **The foundation: a personal companion for every human.** The companion is not a governance tier. It is the per-person cognitive infrastructure of the Baseline, the thing that makes the People's sovereignty real rather than nominal. It belongs to the person, it is aligned to the person, and it is never the engine's sensor.
 
-The architecture binds nothing until proof-of-humanity infrastructure is operational, claims broad authority only over communities that voluntarily ratify, and sunsets every authorization it grants itself. Power moves through a single spine: a reversible pause that any one lower-tier branch can pull on a low bar, with reversal escalating to the People; and an emergency gate that pre-authorizes coercive action only on a high bar, graduated by how long and how reversible the action is. Standing with the governed is measured continuously through a Legitimacy Decay Index that drives Tribune election and recall. The canonical shape is a pentagon: two sovereigns, three branches, on a Baseline foundation.
+The architecture binds nothing until the One-Vote Standard is operational, claims broad authority only over communities that voluntarily ratify, and sunsets every authorization it grants itself. Power moves through a single spine: a reversible pause that any one lower-tier branch can pull on a low bar, with reversal escalating to the People; and an emergency gate that pre-authorizes coercive action only on a high bar, graduated by how long and how reversible the action is. Standing with the governed is measured continuously through a Legitimacy Decay Index that drives Tribune election and recall. The canonical shape is a pentagon: two sovereigns, three branches, on a Baseline foundation.
 
 The architecture commits to: universal human dignity, equal vote weight, civic Baseline (food, water, shelter, healthcare, education, energy, information access, and a personal memory layer for informed civic participation) as the precondition for meaningful democracy, structural opposition within and across the tiers, public principles with classified instances, automatic sunset of all powers, scheduled renewal cycles, and the principle that the system exists to prevent catastrophe rather than to optimize daily life, transition cost for automation-driven displacement borne by the party capturing the gain, and the engine paying the unsubsidized full cost of its own compute footprint with siting by local consent.
 
@@ -80,11 +80,11 @@ This document offers Ouroboros to anyone who would help build, refine, or replac
 
 The following are non-negotiable. Any implementation of Ouroboros that violates these principles is not Ouroboros.
 
-**0a. Provisional operation.** Ouroboros operates in provisional form until proof-of-humanity infrastructure is established (see §V). During the provisional period, the engine convenes, deliberates, and commissions; it does not bind. Exit from provisional status enables binding within ratified communities only. Exit from provisional status requires functional proof-of-humanity verified by independent audit and ratified by initial-adopter populations.
+**0a. Provisional operation.** Ouroboros operates in provisional form until the One-Vote Standard is established (see §V). During the provisional period, the engine convenes, deliberates, and commissions; it does not bind. Exit from provisional status enables binding within ratified communities only. Exit from provisional status requires a functional One-Vote Standard verified by independent audit and ratified by initial-adopter populations.
 
 **0b. Two-tier consent.** Ouroboros operates two distinct consent regimes.
 
-The **broad regime** governs the engine's general authority: economic restructuring, civic commons funding, sanctions, justice administration, and all other ordinary engine action. The broad regime is **voluntary opt-in only**. The engine never binds non-ratifying populations under this regime regardless of proof-of-humanity status. Communities accede through demonstrated-outcome legitimacy; entrenched interests retain the right to refuse.
+The **broad regime** governs the engine's general authority: economic restructuring, civic commons funding, sanctions, justice administration, and all other ordinary engine action. The broad regime is **voluntary opt-in only**. The engine never binds non-ratifying populations under this regime regardless of One-Vote Standard status. Communities accede through demonstrated-outcome legitimacy; entrenched interests retain the right to refuse.
 
 The **emergency regime** governs a narrowly-defined set of civilization-threatening risk categories: existential AI risk, pandemic infrastructure response, large-scale ecological collapse coordination, and other risks that meet the formal threshold of "credible threat to human civilization on a timeline shorter than broad-regime processes can address." Under the emergency regime, the engine claims coordination authority over the specified risk category. This means the authority to require participation in coordination protocols (information sharing, joint response, the minimum-coordination constraints that the joint response cannot function without), not the authority to direct internal policy of non-ratifying jurisdictions. The emergency regime is operationalized through the single crisis spine described in §VI: coercive emergency action takes effect only on the high authorization bar, it is time-bounded and sunset-by-default, its renewal escalates a tier, personal liability attaches to actors who invoke it under crises later determined to have been overstated, and every invocation is audited at the Reckoning.
 
@@ -150,7 +150,7 @@ Tier 1 is two co-equal human sovereigns: the People and the Tribune. Sovereignty
 
 #### The People
 
-The People hold the franchise: one human, one vote, with proof-of-humanity as the precondition (see §V).
+The People hold the franchise: one human, one vote, with the One-Vote Standard as the precondition for a ballot being counted (see §V).
 
 **Who "the People" are is set by the ratifying community, not by the engine.** One-human-one-vote is a rule about *weight*, forbidding any vote from counting for more than any other. It is not a claim about membership. Each ratifying community defines its own roll through its own lawful process, and the engine binds itself to whatever that community decides: residency, citizenship, or another standard entirely. The engine holds no position on the question and claims no power to settle it. Where a ratifying community sits inside a larger jurisdiction with its own franchise rules, engine participation neither confers nor removes any standing in that jurisdiction’s elections, and the two rolls remain separate. This is stated explicitly because the phrase "one human, one vote" has been read as a membership claim, which it has never been.
 
@@ -175,7 +175,13 @@ The Tribune is a single elected human office. The name is a placeholder, drawn f
 
 The Tribune cannot legislate, tax, allocate resources, or sanction alone. Each of those requires the People and the lower-tier process. The Tribune's check on the People is procedural only: the office can slow, return, or force re-deliberation, but it cannot override the substantive will of the franchise.
 
-**Selection and tenure.** The Tribune is elected into office between the ages of 30 and 35, serves a 15-year term, and faces a mandatory exit at age 75 to 80. The single long term is deliberate: it lets the office hold a horizon longer than an electoral cycle, while the age bounds, the mandatory exit, the Legitimacy Decay Index, and recall keep the term from becoming entrenchment. The founding term is shortened (see §IX). The bootstrap of the very first Tribune is described in §IX.
+**Selection and tenure.** The Tribune serves a **single six-year term and may never stand again**. Entry is open from age 35, with a maximum entry age set so that the officeholder exits by roughly 75, placing the ceiling near 69.
+
+Non-renewability is doing the work that term length was originally asked to do. An earlier draft set a single fifteen-year term so the office could hold a horizon longer than an electoral cycle. A term that can never be renewed delivers almost all of that at a fraction of the cost, because an officeholder with no next election has no campaign to run and no constituency to court, while fifteen years of unremovable tenure was longer than any comparable office in any republic and read as entrenchment however it was defended.
+
+Six years rather than five is deliberate. The Reckoning runs every five years (Principle 7). Matching the two would land every structural self-audit on a transition, with an outgoing officeholder presiding over the audit of their own tenure. At six the cycles interleave permanently: every Tribune faces at least one full Reckoning mid-term, has to answer for its findings, and then keeps governing under them. Staggering independent checks so they fire at different moments is ordinary constitutional design, and the offset is the point. Six is also the United States Senate term, which means it needs no explanation.
+
+The Legitimacy Decay Index and recall (see below) operate throughout, so the term is a ceiling rather than a guarantee. The founding term is shortened (see §IX). The bootstrap of the very first Tribune is described in §IX.
 
 **The five-layer defense of the Tribune office.** A single human office is a capture target. The architecture defends it on five layers, each closing a different vector:
 
@@ -353,7 +359,7 @@ The clinical, regulatory, and economic specifications above are sketches at this
 
 ---
 
-## V. THE BOUNTY SYSTEM AND PROOF-OF-HUMANITY
+## V. THE BOUNTY SYSTEM AND THE ONE-VOTE STANDARD
 
 ### The Bounty System
 
@@ -370,26 +376,40 @@ Bounty awards use milestone contracts with replication requirements, independent
 
 When a quest is accepted, the engine tracks progress, surfaces collaborators, allocates bounty resources, and reviews submitted solutions through both Council review and Oversight analysis. Solutions that pass review are scaled, integrated into the commons, and the quest closes. New quests open as data accumulates and new problems surface.
 
-### Proof-of-Humanity as Standing Protocol
+### The One-Vote Standard
 
-Proof-of-humanity is not a single bounty. It is a standing adversarial-infrastructure protocol that the engine depends on for legitimacy. Its specification includes:
+Every system of self-governance has to answer one question before any vote means anything: did each vote counted come from a distinct person? Without an answer, whoever controls the most compute controls the outcome, because fabricated participants are cheap and getting cheaper. A million manufactured voices can outvote a town. The engine's answer to that problem is the **One-Vote Standard**, called *Sybil resistance* in the engineering literature after the failure mode it prevents: one actor manufacturing many identities.
 
-- **Biometric optionality** (not biometric requirement)
+**What is verified, and what is not.** The engine does not verify people. It verifies **ballots**: that each vote counted traces to one distinct person and that no person's vote counted twice. Nothing in the standard requires the engine to know who cast a ballot, and its design forbids the engine from being able to find out.
+
+**What the engine is permanently forbidden from building.** These are prohibitions, not preferences, and they are not subject to emergency suspension:
+
+- **No central registry of verified persons.** No list exists, at any tier, of who has been verified. There is nothing to leak, subpoena, sell, or seize.
+- **No universal identifier.** No number, credential, or token follows a person across contexts. Anything issued is single-purpose.
+- **No cross-context linkage.** A verification used in one vote cannot be correlated with a verification used in another. This is a mathematical property of the protocol, not an access policy.
+- **No persistence.** Attestations expire by default and are destroyed on withdrawal. There is no permanent record of participation, and no participation history accumulates against anyone.
+- **No condition on anything other than a vote.** Verification is never required to receive the Baseline, to access the commons, to speak, to petition, to assemble, to travel, or to obtain any service. It bears on the counting of ballots and nothing else. A person who never verifies loses nothing but the ability to cast a counted vote, and may participate in every other part of civic life.
+
+Anything resembling a durable, universal, engine-held record of persons is outside the architecture and cannot be brought inside it by any process short of constitutional amendment through the People.
+
+**How it works.** The specification includes:
+
+- **Biometric optionality** (never a biometric requirement)
 - **Social attestation** (recursive trust networks)
-- **Hardware key support** (when available)
+- **Hardware key support** (where available)
+- **Zero-knowledge verification** (proof that a ballot is distinct without disclosure of who cast it)
 - **Recovery courts** (for compromised, lost, or coerced credentials)
 - **Fraud bounties** (continuous adversarial-discovery rewards)
-- **Privacy proofs** (verification without disclosure)
 - **Coercion detection** (signals and signatures of forced participation)
 - **Periodic recertification** (no permanent attestation)
 
-Proof-of-humanity is graduated, not binary. Verification confidence is tiered. Edge cases (severe disability preventing standard verification, populations under coercive regimes, recovery from compromise) are handled by recovery courts with explicit criteria.
+The standard is graduated, not binary. Verification confidence is tiered. Edge cases (severe disability preventing standard verification, populations under coercive regimes, recovery from compromise) are handled by recovery courts with explicit criteria and a bias toward enfranchisement: where the standard cannot be met through no fault of the person, the recovery court's default is to enable the vote, not to exclude it.
 
-The engine cannot fully bind itself until proof-of-humanity is operational. During the provisional period (Principle 0a), the engine convenes, deliberates, and commissions but does not bind. Initial-adopter populations decide when proof-of-humanity has reached sufficient maturity for full binding to begin.
+**The dependency, stated honestly.** The engine cannot fully bind itself until the One-Vote Standard is operational. During the provisional period (Principle 0a), the engine convenes, deliberates, and commissions but does not bind. Initial-adopter populations decide when the standard has reached sufficient maturity for full binding to begin.
 
-If proof-of-humanity infrastructure cannot reach sufficient maturity within a reasonable timeline, the engine's standing commission is to revisit the architectural dependency. The engine's binding may need to be reformulated, or the architecture may not be deployable at the scope this document assumes. The author considers this possibility live and unsolved.
+If the standard cannot reach sufficient maturity within a reasonable timeline, the engine's standing commission is to revisit the architectural dependency. The engine's binding may need to be reformulated, or the architecture may not be deployable at the scope this document assumes. The author considers this possibility live and unsolved.
 
-The standing operation of proof-of-humanity is itself audited continuously by the Oversight, the Councils, and independent rights bodies.
+The standing operation of the One-Vote Standard, including compliance with every prohibition above, is audited continuously by the Oversight, the Councils, and independent rights bodies, and is a mandatory line item in every Reckoning.
 
 ---
 
@@ -528,8 +548,8 @@ The single-human office cannot be allowed to exist before the machinery that che
 
 1. **Checks first.** The lower-tier triad and the LDI and recall machinery stand up before the first Tribune exists, so the office is never unchecked from its first day. The Tribune fitness criteria and the succession rules are fixed here too, behind the veil, before anyone knows who will hold the office. The order is deliberate: the cage is built before the occupant.
 2. **Selection by the Oversight-consortia pattern.** The first Tribune is selected by reusing the same pattern as the Oversight-consortia bootstrap: a sortition-drawn temporary nominating body, drawn from the founding-adopter populations, screens candidates against the Tribune criteria; public nomination follows; then the founding adopters elect, one human, one vote.
-3. **A shortened founding term.** The first Tribune serves only to the first Reckoning, five years rather than the full fifteen. After the founding term, a full-legitimacy election runs under the matured system.
-4. **Dormant teeth during the provisional period.** Per Principle 0a, the engine does not bind until proof-of-humanity is live. Until the system exits provisional status, the founding Tribune is a convener and broker only. The office grows its full function as the system itself does.
+3. **A shortened founding term.** The first Tribune serves only to the first Reckoning, five years rather than the full six. After the founding term, a full-legitimacy election runs under the matured system.
+4. **Dormant teeth during the provisional period.** Per Principle 0a, the engine does not bind until the One-Vote Standard is live. Until the system exits provisional status, the founding Tribune is a convener and broker only. The office grows its full function as the system itself does.
 
 **Acknowledged residue.** Who convenes the first sortition is the irreducible constituent-power problem. It is answered, necessarily, by the founding communities' existing process, and that founding legitimacy is thin. The thinness is mitigated, not erased: it is made survivable by transparency, by sortition, by the office's dormant powers during the provisional period, by the shortened founding term, and by recall. Outcomes either build legitimacy from there or they do not.
 
@@ -551,7 +571,7 @@ Version 2.0 resolved the six open items the v2 restructure opened (the cross-tie
 
 4. **Specific punishment thresholds.** What counts as planetary-scale impact for corporate transition. At what specific severity permanent containment applies for civilizational versus non-civilizational crimes. Provisional numeric bands will be developed through subspec work and Reckoning deliberation.
 5. **Youth justice framework.** Major subspec required. Hard developmental floor for permanent containment. Rehabilitation infrastructure. Civic-restoration pathways.
-6. **Proof-of-humanity standing protocol detailed specification.** The principles in §V are locked. Operational specification remains the engine's first standing commission.
+6. **One-Vote Standard detailed specification.** The principles and prohibitions in §V are locked. Operational specification remains the engine's first standing commission.
 7. **Religious and spiritual authority navigation.** When religious institutions claim authority that conflicts with engine principles, when the engine intervenes, when it defers, and what process governs the conversation. The engine must be most humble here.
 
 ### Tunable (resolve through engine operation)
@@ -644,7 +664,7 @@ The canonical diagram changed from a star to a pentagon.
 - The emergency regime is unified onto the same pause-and-escalate spine, with the gate flipped: coercive emergency action takes effect only on the high authorization bar (National AIs supermajority plus Oversight nine-of-twelve), with the Councils' one-shot brake and the People's backstop. This collapses Version 1.0's four-rung ladder and the v2 Tribune-initiation mechanic into one process.
 - The happiness or approval threshold became the Legitimacy Decay Index, with election and recall figures.
 - Principle 4 was reworded for the triadic structure.
-- The Tribune bootstrap was set: checks first, the v1.0 sortition pattern, a shortened five-year founding term, and dormant powers during the provisional period.
+- The Tribune bootstrap was set: checks first, the v1.0 sortition pattern, a shortened five-year founding term, and dormant powers during the provisional period. Tenure was subsequently set to a single non-renewable six-year term with entry from 35, offset from the five-year Reckoning cycle.
 
 **New in v2.0 beyond the resolutions.** Two first principles were added to carry the new sovereignty structure: Principle 9 (co-equal human sovereignty, including that a deciding sovereign is overturned only by the other sovereign) and Principle 10 (legitimacy is measured, not assumed). The five-layer defense of the Tribune office was enumerated (selection integrity; influence and coercion firewall; transparency of action; powerlessness alone; continuous legitimacy and recall), with coercion folded in alongside bribery. The companion's placement was made precise: private and local, never the engine's sensor, with only a consented, aggregate civic signal flowing to the civic platform and never to the governance tiers. The exact Tier-2 internal thresholds were set: a simple-majority pause within any one branch, National AIs supermajority plus Oversight nine-of-twelve for the emergency gate, and a council-majority one-shot brake. And a full succession, absence, and incapacity regime was added for the single office: the Councils' presiding seat as caretaker for a vacancy; a sitting Tribune's exercised refusal overturned only by the People; an unreachable Tribune treated as a near-vacancy where the Councils, never the AI branches, may originate a short reversible measure under the high gate; and incapacity judged by criteria fixed at the founding behind a veil, People-authored, with harmful impact kept out of the fitness question and routed to the Legitimacy Decay Index instead. The governing principle across all of it: the instrument never overrides a human's exercised judgment, and a deciding sovereign is overturned only by the other sovereign. An earlier formulation that would have let the lower tier originate emergency response was corrected, because it would have handed the AI branches a path to start coercive action when no human would, which is the exact failure the architecture exists to prevent.
 
