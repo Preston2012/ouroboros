@@ -10,6 +10,8 @@
 
 📝 **Current version:** v2.0 (June 15, 2026). v1.0 is [archived](./archive/).
 
+🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
+
 ---
 
 ## What this is
