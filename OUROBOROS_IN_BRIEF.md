@@ -46,13 +46,15 @@ It rests on a few plain commitments.
 
 **It pays its own power bill.** Running this takes computers, and computers take electricity and water. Data centers are already pushing up utility bills in a lot of places. So the system binds itself harder than it binds anyone else: full retail price for power and water, no tax breaks, never shifting its costs onto your bill, and nothing built in a community that has not said yes to it. It publishes what it uses in real numbers, estimated before it builds and measured after.
 
-The whole design assumes, from day one, that people will try to capture it. So power is split among groups that check each other, every authority is public and time-limited and removable, no AI can ever overrule a human, and every five years the entire system audits itself in the open and can be rewritten. Communities join only if they choose to, and it governs only the ones that say yes. It even names its own hardest unsolved problem out loud, that someone has to start it and there is no perfectly fair way to do that, because a system that hides its weak points cannot be trusted to fix them.
+The whole design assumes, from day one, that people will try to capture it. So power is split among groups that check each other, every authority is public and time-limited and removable, no AI can ever overrule a human, and every five years the entire system audits itself in the open and can be rewritten. Communities join only if they choose to, and it governs only the ones that say yes. There is one exception and the full document names it plainly rather than burying it: for a short list of threats that could end civilization, a runaway AI or a pandemic among them, it claims the power to make governments share information and take part in a joint response even if they never joined. That reaches governments and never people. It has no authority over anyone’s body, movement, home, business, school, or church, at any time, under any emergency, ever. It even names its own hardest unsolved problem out loud, that someone has to start it and there is no perfectly fair way to do that, because a system that hides its weak points cannot be trusted to fix them.
 
 ---
 
 ## The work ahead
 
-One person sketched this. It will take far more than one to build it, sharpen it, tear into it, and make it real. That is the point. The systems we have are failing the people they were meant to serve, the tools to do better finally exist, and the window to use them is open right now.
+One person sketched this: Preston T. Winters. He also builds and sells AI software, including a memory engine and a personal assistant of the kind described above. That is a conflict and you should weigh it. The architecture is deliberately not tied to any company’s product, and if someone builds a better version of that piece than his, they should win it. The point was never the products.
+
+It will take far more than one person to build this, sharpen it, tear into it, and make it real. That is by design. The systems we have are failing the people they were meant to serve, the tools to do better finally exist, and the window to use them is open right now.
 
 Here is one serious blueprint, in public, for anyone who wants governance to work better than what we inherited. Take it apart. Make it stronger. Build the version that deserves to win.
 
