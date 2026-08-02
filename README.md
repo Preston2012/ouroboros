@@ -8,7 +8,7 @@
 
 📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
 
-📝 **Current version:** v2.0 (June 15, 2026). v1.0 is [archived](./archive/).
+📝 **Current version:** v2.1 (amended August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
 
 🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
 
@@ -40,7 +40,7 @@ Power moves through one spine: a low-bar reversible pause any branch can pull, w
 
 **Two-tier consent model:**
 - **Broad regime:** voluntary opt-in only. Communities ratify; the engine binds only ratifying communities. For ordinary engine action (economic policy, civic commons, sanctions) it works through demonstrated outcomes earning rational accession over time.
-- **Emergency regime:** narrow coordination authority over civilization-threatening risk categories (existential AI risk, pandemic, ecological collapse). Justified by urgency. Time-bounded, sunset-by-default, high-bar to authorize, Reckoning-revisitable. Named honestly rather than smuggled.
+- **Emergency regime:** narrow coordination authority over civilization-threatening risk categories (existential AI risk, pandemic, ecological collapse). Justified by urgency. Time-bounded, sunset-by-default, high-bar to authorize, Reckoning-revisitable. Named honestly rather than smuggled. Coordination authority reaches jurisdictions and institutions, never persons: the engine holds no authority over anyone’s body, movement, home, business, school, or place of worship, at any tier, under any invocation.
 
 **Civic Baseline:** universal access to nutrition, water, shelter, healthcare, education, energy, information, and a personal memory layer for informed civic participation. The Baseline is the precondition for meaningful democracy.
 
@@ -87,7 +87,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.0). https://github.com/Preston2012/ouroboros
+Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.1). https://github.com/Preston2012/ouroboros
 ```
 
 ---

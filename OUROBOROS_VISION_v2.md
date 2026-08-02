@@ -2,7 +2,7 @@
 
 ### Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent
 
-*Version 2.0, Genesis Project, 2026-06-15*
+*Version 2.1, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01 (see Appendix C).*
 *Authored by Preston T. Winters with Claude (Anthropic)*
 *Supersedes Version 1.0. Open for refinement, contestation, and improvement through the standard process the document describes.*
 
@@ -683,3 +683,31 @@ The canonical diagram changed from a star to a pentagon.
 *End of Ouroboros Vision Document, Version 2.0*
 
 *Supersedes Version 1.0. Public release intended. Open for refinement, contestation, and improvement through the standard process the document describes.*
+
+---
+
+## APPENDIX C: AMENDMENT LOG
+
+Version 2.0 was released 2026-06-15. The amendments below were made 2026-08-01 and are recorded here rather than folded in silently, because a document that changes without saying so has forfeited the thing it is asking readers to extend it.
+
+**Scope reframed.** The subtitle and the scope language no longer describe this as planetary governance. What the architecture does is voluntary coordination beginning at community scale, expanding only where communities agree. The prior phrasing was both more threatening and less accurate.
+
+**Inheritance notes corrected (Appendix A).** Version 2.0 attributed the compounding-cooperation commitment to Lurianic Kabbalah and *tikkun olam*, and the willing-cooperation principle to Iamblichan theurgy and Sufi *maqamat*. Those attributions were withdrawn. They were supplied during drafting rather than held by the author, who has not studied those traditions and declines to cite what he cannot defend. The commitments themselves are unchanged; they are now attributed to sources the author stands behind.
+
+**The Oversight resized and its sizing derived.** The count moves from thirteen to a founding twelve under a nine-of-twelve quorum, and §III now states the requirements the count must satisfy (three-capture tolerance, quorum above two thirds, a floor of ten, corpus independence, one consortium per major language family above a speaker threshold, growth as qualifying institutions appear) so that the number is an output rather than a decree. The honest cost is recorded: twelve tolerates three simultaneous captures where thirteen tolerated four. The internal name "Demiurges" was retired entirely.
+
+**Section VII split by authority level.** VII.a (Disclosure and Citizen Control) retains compulsory force over platforms. VII.b (Integrity Monitoring) reduces the Oversight to publishing findings and nothing else: it cannot delay a vote, extend a deliberation, quarantine a campaign, trigger a revote, or label a source. All response authority is seated with the Councils, escalating to the People. Version 2.0 gave one AI branch both detection and response, which made it the arbiter of a legitimate information environment. Citizen Audit Rights now explicitly prevails in any conflict within the section, and the compelled-speech difficulty facing public-utility obligations is conceded in the text rather than asserted past.
+
+**Proof-of-humanity renamed and constrained.** Now the One-Vote Standard (*Sybil resistance* in engineering contexts), with five prohibitions stated as binding and not suspendable: no central registry of verified persons, no universal identifier, no cross-context linkage, no persistence of attestations, and no conditioning of anything other than the counting of a ballot. The subject of verification moved from the person to the ballot. Recovery courts carry an explicit bias toward enfranchisement.
+
+**Tribune tenure.** A single non-renewable six-year term replaces the fifteen-year term, with entry from age 35 and a ceiling near 69. Non-renewability delivers the long-horizon independence the long term was intended to supply. Six is offset from the five-year Reckoning cycle deliberately, so that no structural self-audit lands on a transition.
+
+**Emergency authority bounded at the person.** Principle 0b now states that coordination authority reaches jurisdictions and institutions and never persons, that the engine holds no authority over any person's body, movement, home, business, school, or place of worship at any tier under any invocation, and that this is a limit on what the engine is rather than a policy it holds.
+
+**Two economic commitments added (§IV.7, §IV.8).** Displacement and the cost of transition: transition cost attaches to the party capturing the gain, no public subsidy for job-eliminating automation tested on measured headcount rather than stated intent, mandatory displacement disclosure above a size threshold, and an explicit statement that an income floor does not restore a person's place in the world. The engine's own footprint: full unsubsidized cost for power and water, siting only by local consent, published absolute footprint with a pre-construction estimate reconciled against measurement, smallest-sufficient-model as a requirement, and hourly-matched additional generation verified by an independent third party.
+
+**Franchise clarified.** One-human-one-vote is a rule about vote weight, not about membership. Each ratifying community defines its own roll through its own lawful process, and engine participation neither confers nor removes standing in a surrounding jurisdiction's elections.
+
+**Acknowledged limits.** Added: the engine has no answer to what a person is for when the work is gone, and holds that question outside its own authority.
+
+Every one of these amendments narrowed the engine's power, removed a claim the author could not defend, or disclosed a cost that had been left unstated. None expanded its authority.
