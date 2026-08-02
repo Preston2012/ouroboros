@@ -44,7 +44,7 @@ Ouroboros is a proposed architecture for planetary-scale governance. Version 2.0
 
 The architecture binds nothing until proof-of-humanity infrastructure is operational, claims broad authority only over communities that voluntarily ratify, and sunsets every authorization it grants itself. Power moves through a single spine: a reversible pause that any one lower-tier branch can pull on a low bar, with reversal escalating to the People; and an emergency gate that pre-authorizes coercive action only on a high bar, graduated by how long and how reversible the action is. Standing with the governed is measured continuously through a Legitimacy Decay Index that drives Tribune election and recall. The canonical shape is a pentagon: two sovereigns, three branches, on a Baseline foundation.
 
-The architecture commits to: universal human dignity, equal vote weight, civic Baseline (food, water, shelter, healthcare, education, energy, information access, and a personal memory layer for informed civic participation) as the precondition for meaningful democracy, structural opposition within and across the tiers, public principles with classified instances, automatic sunset of all powers, scheduled renewal cycles, and the principle that the system exists to prevent catastrophe rather than to optimize daily life.
+The architecture commits to: universal human dignity, equal vote weight, civic Baseline (food, water, shelter, healthcare, education, energy, information access, and a personal memory layer for informed civic participation) as the precondition for meaningful democracy, structural opposition within and across the tiers, public principles with classified instances, automatic sunset of all powers, scheduled renewal cycles, and the principle that the system exists to prevent catastrophe rather than to optimize daily life, transition cost for automation-driven displacement borne by the party capturing the gain, and the engine paying the unsubsidized full cost of its own compute footprint with siting by local consent.
 
 This document is Version 2.0. It names its own limits in the open and is built to be torn into and improved.
 
@@ -320,6 +320,29 @@ The regime change implied here is of historic magnitude within ratifying jurisdi
 
 **6. Credit-Reporting Reform.** The current credit-reporting model, where past financial trouble haunts a person for arbitrary years regardless of actual recovery, is replaced. Credit assessments must reflect current reality, not stale punishment. People who have done the work of recovery are restored to full financial standing on a timeline matched to their actual conduct, not to a fixed-year schedule disconnected from it.
 
+**7. Displacement and the Cost of Transition.** Automation displaces people. The engine treats this as a governance outcome rather than a technological one, because the technology does not decide who bears the cost. Institutions decide that, and the current arrangement concentrates the gains while distributing the losses. The mechanism that keeps it arranged that way is the same influence capture §0 describes and the lobbying prohibition above addresses.
+
+The engine commits to four things on displacement, none of which depend on the income floor above:
+
+- **Transition cost attaches to the party capturing the gain.** Where a firm's automation eliminates positions, that firm carries the retraining and income-bridge cost for the people displaced. This is implemented through tax structure within ratifying jurisdictions, not by engine action against private parties.
+- **No public subsidy for job-eliminating automation.** Public money and tax preference do not flow to capital deployment whose primary effect is to remove employment. A jurisdiction that funds the elimination of its own tax base is not making an investment. Where a firm claims both an automation preference and a displacement, it forfeits the preference.
+- **Displacement disclosure.** Firms above a stated size threshold report automation-attributable change in headcount, on a regular cadence, publicly. Nobody currently knows this number at any useful resolution, which is why the public argument about it runs on impression. Disclosure is the precondition for any policy at all, and it is the same principle the information-environment commitments in §VII rest on: what is not disclosed cannot be governed.
+- **Sector-scale early warning.** The Oversight's existing mandate to identify global problems requiring coordinated attention explicitly includes labor displacement at sector scale, surfaced publicly and early rather than after the fact.
+
+The engine does not claim to have solved this. An income floor keeps a person alive and it is not a place in the world. Work is where a great many people locate their competence, their standing among others, and their sense that their days matter, and no transfer payment supplies those. The engine's commitments above address who pays for the transition and what the public can see while it happens. They do not answer what a person is for when the work is gone. That question is real, it is upstream of policy, and the architecture is a floor rather than a ceiling precisely because it is not the engine's place to answer it on anyone's behalf.
+
+**8. The Engine's Own Footprint.** This architecture runs on physical infrastructure. A twelve-member Oversight of independently trained models, retrained on a five-year cadence, plus per-community National AIs, plus companion access for every human, consumes electricity, water, land, and capital at scale. Rising residential energy costs and the siting of large compute facilities are live political injuries in many communities already. An architecture that claims ecological coordination as an emergency-tier concern and does not account for its own consumption is not credible.
+
+The engine binds itself to the following, and holds itself to a stricter standard than it asks of anyone else:
+
+- **Full unsubsidized cost.** Compute the engine requires pays retail rates for power and water. No cost socialization onto other ratepayers, no negotiated large-load tariff below cost of service, no sales-tax or property-tax exemption, no publicly financed transmission built primarily to serve it. Where the engine's infrastructure raises the cost of service for a shared grid, the engine carries that increase.
+- **Siting by consent.** No engine infrastructure is sited in a community that has not consented to it, through the same ratification the architecture requires of itself everywhere else. A voluntary-consent architecture that imposes its own buildings has forfeited the claim.
+- **Published footprint.** Energy, water, and emissions for all engine infrastructure are published on a regular cadence, in absolute terms rather than intensity ratios, and independently verified. Estimates are published before construction and reconciled against measured consumption after.
+- **Smallest sufficient model.** The companion layer runs local-first on the smallest model that performs the function, consistent with the privacy modes in §III and the tiered delivery in this section. Frontier-scale inference is reserved for the audit and representation branches, where adversarial independence requires it. Convenience is not a justification for scale.
+- **Additional generation.** New load the engine creates is matched by generation the engine brings online, rather than drawn from existing supply. Where that is not achievable on the required timeline, the shortfall is disclosed and the deployment is deferred or reduced.
+
+The engine accepts that these constraints slow its own deployment and raise its own costs. That is the intended effect. An architecture whose legitimacy rests on consent cannot fund itself by quietly transferring its expenses onto people who never agreed to it.
+
 The clinical, regulatory, and economic specifications above are sketches at this level of resolution. The engine commits to the principles. Operational details are addressed through subspecs and the Reckoning.
 
 ---
@@ -518,6 +541,8 @@ Version 2.0 resolved the six open items the v2 restructure opened (the cross-tie
 10. **Service-tier specification** for civic commons (offline-first, terminal-shared, regional-clustered, and so on), **threshold smoothing parameters** for bounded-capital transitions, and **the continuous-operation versus retraining-cycle boundary**, all resolved through operation and audited by the Reckoning.
 
 ### Acknowledged Limits (not actionable opens)
+
+**The engine has no answer to what a person is for when the work is gone.** §IV commits to who pays for the transition and what the public can see during it. It does not answer the prior question. An income floor keeps a person alive; it does not supply competence, standing among others, or the sense that one's days matter, and those are what a great many people locate in work. The engine holds this as a real gap rather than a solved problem, and holds it deliberately outside its own authority, because a system that assigns people their purpose has stopped being a floor.
 
 These are not problems to be solved before deployment. They are limits no governance architecture has solved, named here so that the engine does not pretend otherwise.
 
