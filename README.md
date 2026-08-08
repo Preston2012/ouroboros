@@ -6,123 +6,135 @@
 
 ⚡ **Start here:** [Ouroboros in Brief](./OUROBOROS_IN_BRIEF.md) | [PDF](./OUROBOROS_IN_BRIEF.pdf). The whole idea in five minutes.
 
-📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
+📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). Every mechanism, every open question.
 
-📝 **Current version:** v2.5 (amended August 8, 2026; v2.4 and v2.2 August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
+📝 **Current version:** v2.5 (amended August 8, 2026; v2.4 and v2.2 August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged with its reason in Appendix C. v1.0 is [archived](./archive/).
 
-🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
-
----
-
-## Is this direct democracy?
-
-No. It keeps one part of direct democracy and rejects the rest, and the reasons matter more than the label.
-
-**What it keeps.** One human, one vote, with no weight differentials of any kind: no property qualification, no credential test, no productivity weighting. Direct ratification by the whole franchise on constitutional questions, on amendments to the first principles, and on the five-year audit. On the things that define the system, the people decide directly and nobody decides for them.
-
-**What it rejects, and why.** Majority vote on everything, for three reasons.
-
-Volume. Nobody can vote on everything. In any system that asks them to, the small group that actually shows up decides, which is capture with extra steps and a better story.
-
-Preparation. Technical questions put to an unprepared electorate get decided by whoever mobilizes best, not by whoever is right. This is why the architecture spends so much of its length on the floor and on the personal assistant: participation without the capacity to deliberate is participation in name.
-
-Rights. A majority can vote to strip a minority. This is why a short list of prohibitions in the architecture is deliberately not votable, including the rule that the system may never reach a person's body, movement, home, business, school, or place of worship, under any emergency, ever. A system where everything is up for a vote is a system where your protections are up for a vote.
-
-**What it uses instead.** Direct ratification at the constitutional layer. Citizen councils drawn by lot rather than elected, on jury logic, so the body that watches for capture cannot be campaigned into place. One elected human office that can slow a decision, return it, and force re-deliberation, and that cannot override what the franchise decides. Machine instruments that publish what they find and hold no authority to act on it.
-
-Call it a hybrid. Direct where direct works, sortition where independence matters more than a mandate, and one elected office with a delay button and no sword.
-
----
-
-## What this actually commits to
-
-A plain list, for anyone arriving from a search rather than from the argument. Each of these is stated in the Vision and most are load-bearing rather than decorative.
-
-**Fairness, meaning the same rules reach everyone.** One vote each. No purchased influence, defined as a prohibition on transfers of value rather than on speech. The most severe sanctions apply to civilizational-scale crimes regardless of the standing of the person who committed them.
-
-**Honesty as a structural requirement.** Every rule public in principle. Published dissent logs and mandatory minority reports. Personal liability attaching to officials who invoke emergency authority under a crisis later found to have been overstated. Every amendment to this document logged with its reason, which is why Appendix C exists.
-
-**Health, and the incentive that currently works against it.** Healthcare in the shared floor. Prizes for curing diseases rather than managing them, because the present structure pays more for thirty years of management than for an ending, and cures developed on public money are manufactured at cost rather than owned.
-
-**Production over extraction.** Capital gains on building taxed lightly and capital gains on rent-seeking taxed heavily. The publicly-traded model at planetary scale named as a corruption vector. The surveillance-economy business model named as an example of the same dynamic.
-
-**Surroundings that are not degraded, and local consent over what is built near you.** Clean water in the shared floor. Large-scale ecological destruction treated as a civilizational-scale crime. The system pays full retail for its own power and water, takes no tax preference, may never shift its costs onto a household bill, and may build nothing in a community that has not said yes to it.
-
-**Consent as the default and coercion named where it exists.** The architecture binds only communities that ratify it. One narrow exception is stated in plain words instead of hidden: for a short list of risks that could end civilization it claims authority to require governments to share information and take part in a joint response. That reaches governments and never persons.
-
-**Refusal of atrocity.** No authority to take a human life, ever, and no military authority of any kind. Genocide, ecocide at civilizational scale, mass crimes against humanity, and organized exploitation of children are the only offenses that reach permanent containment.
-
-**Long horizons.** Bounties reserved for problems that need decades. Every authority expiring by default so that permanence has to be re-earned against evidence rather than inherited.
-
-**What it does not address.** Immigration. Family formation. National identity, which it in fact runs against: the preamble holds that humanity is plural and that governance requiring uniformity to function is conquest rather than governance. If you came here expecting a position on those, there is not one, and inventing one to match a platform would be the kind of thing this document is built to refuse.
+🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a near-term program on one page. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
 
 ---
 
 ## What this is
 
-A proposed architecture for governance that can keep pace with the technology reshaping human life. It uses AI as a tool, keeps humans in charge of every real decision, gives everyone a floor to stand on, and is built to repair itself on a schedule.
+A way of governing that uses AI as a tool, keeps humans in charge of every real decision, gives everyone a floor to stand on, and repairs itself on a schedule instead of rotting.
 
-A working draft, offered for refinement, contestation, and improvement. Tear into it.
+It starts at the size of one community that agrees to it. It binds nobody who has not agreed. It has no army, no police, and no way to make anyone join.
 
 ## Why now
 
-Anthropic's CEO has put the probability of AI development going very badly at roughly 25 percent in public remarks, and Elon Musk has given a figure near 20 percent. Hundreds of researchers and executives, among them the heads of OpenAI, Google DeepMind, and Anthropic, have signed a statement placing extinction risk from AI alongside pandemics and nuclear war. The architects of the technology are saying publicly that they cannot rule out outcomes that end or fundamentally degrade human civilization.
+Twenty-five percent of American voters say they trust the federal government. Among people under thirty it is fifteen percent, and half of them say people like them have no real say. Those numbers are the same on both sides of the aisle.
 
-Current governance systems are not equipped to evaluate, regulate, or coordinate around this class of risk on the timeline at which the technology is advancing. Reform is too slow. By the time existing institutions adapt to the present generation of AI capabilities, the next generation will have arrived.
+Meanwhile the people building AI are publishing their own odds of it going badly. Anthropic's CEO says twenty-five percent. Musk has said as high as twenty. The heads of OpenAI, Google DeepMind, and Anthropic all signed a statement putting extinction risk from AI alongside pandemics and nuclear war.
 
-Something is going to replace the systems that are failing. The only question is whether we build the replacement on purpose, or let it fall to whoever moves first with the most resources. This document builds it on purpose.
+Something will replace systems failing this badly. The only question is whether it gets built on purpose or by default, by whoever moves first with the most money.
 
-## What it proposes
+## Is this direct democracy?
 
-**Two tiers on a Baseline foundation.** Only humans are sovereign. Every AI sits in the lower tier as instrument.
+No. It keeps one piece of it and rejects the rest.
 
-- **The foundation:** a personal AI companion for every human. Private, user-aligned, and never the engine's sensor. It is the cognitive infrastructure that makes one-person-one-vote a real franchise rather than a formal one.
-- **Tier 1, the human sovereigns:** the People (one human, one vote) and the Tribune (a single elected office, a broker and a check, not a ruler), co-equal, neither above the other. The Tribune holds no substantive power alone and can be paused, recalled, and replaced.
-- **Tier 2, the triadic instrument:** a rotating citizens' council, the per-community representative AIs, and a twelve-member adversarial AI oversight body. Three peer branches, none sovereign, each keeping the other two honest. The oversight body publishes what it finds and may do nothing else with it: it cannot delay a vote, extend a deliberation, quarantine a campaign, or label a source. Every response to a finding belongs to humans.
+**What it keeps.** One person, one vote, with no weighting of any kind. No property test, no credential test, no productivity test. On constitutional questions and on the five-year audit, the whole franchise decides directly and nobody decides for them.
 
-Power moves through one spine: a low-bar reversible pause any branch can pull, with reversal escalating to the People, and a high-bar gate for civilization-scale emergencies. The AIs can never start an emergency power on their own; a human always acts first.
+**What it rejects.** Majority vote on everything, for three reasons. Nobody can vote on everything, so the few who show up end up deciding, which is capture with better manners. Technical questions put to an unprepared vote go to whoever mobilizes best rather than whoever is right. And a majority can vote away a minority's protections, which is why a short list of prohibitions here is deliberately not votable at all.
 
-**Two-tier consent model:**
-- **Broad regime:** voluntary opt-in only. Communities ratify; the engine binds only ratifying communities. For ordinary engine action (economic policy, civic commons, sanctions) it works through demonstrated outcomes earning rational accession over time.
-- **Emergency regime:** narrow coordination authority over civilization-threatening risk categories (existential AI risk, pandemic, ecological collapse). Justified by urgency. Time-bounded, sunset-by-default, high-bar to authorize, Reckoning-revisitable. Named honestly rather than smuggled. Coordination authority reaches jurisdictions and institutions, never persons: the engine holds no authority over anyone's body, movement, home, business, school, or place of worship, at any tier, under any invocation.
+**What it uses instead.** Direct votes on the things that define the system. Citizen councils drawn by lot, like juries, so the body that watches for corruption cannot be campaigned into place. One elected office that can slow a decision and send it back, and cannot override what the people decide.
 
-**Civic Baseline:** universal access to nutrition, water, shelter, healthcare, education, energy, information, and a personal memory layer for informed civic participation. The Baseline is the precondition for meaningful democracy.
+## What it will never do
 
-**Bounded capital within ratifying jurisdictions:** incentive-based reform of planetary-scale shareholder capitalism. The engine encourages but does not directly compel transition. A multi-decade horizon is accepted as the cost of operating under consent.
+The refusals are the load-bearing part. Most of them are written as descriptions of what the thing is rather than as policies it holds, so no emergency can suspend them.
 
-**The Reckoning:** every five years, the architecture conducts a structured public audit of itself with mandatory amendment cycles. The system survives by continuously auditing and reforming itself.
+- **No power over your body, your movement, your home, your business, your school, or your church.** Not at any tier, not under any emergency, not ever.
+- **No list of you.** No registry of who has been verified. No number that follows you between contexts. Nothing to leak, subpoena, sell, or seize.
+- **No authority to take a human life.** No executions, and the founding design does not provide for revisiting that.
+- **No military authority of any kind.**
+- **No AI decides anything.** The audit body publishes what it finds and does nothing else with it. It cannot delay a vote, extend a deliberation, quarantine a campaign, trigger a revote, or label a source.
+- **No AI starts an emergency.** A human always acts first.
+- **No vote outweighs another,** and vote weights are never adjusted under any circumstance.
+- **It never decides what you may say.** It can require a platform to show how it shapes what you see. It cannot touch what people write.
+- **It does not bind anyone who has not agreed to it** on ordinary matters.
+- **It does not run your life.** It is a floor, not a ceiling. It exists to stop catastrophes, not to optimize your days.
+- **It does not promise speed.** Reforming concentrated capital under consent is a multi-decade job and the document says so.
 
-**Sunset by default:** every authorization, emergency power, and law expires automatically. Permanence must be earned, repeatedly, against evidence.
+## What it commits to
 
-## What changed in v2
+**Nobody gets a list of you.** Five prohibitions, stated as prohibitions and not suspendable: no central registry of verified people, no universal identifier, no way to link one verification to another, nothing kept after it expires, and verification required for nothing except counting a ballot. Your own assistant runs on your own device by default and is never the system's sensor.
 
-v1.0 described a four-layer stack. v2.0 restructures the governance core into the two tiers above, drawing one line sharply: only humans are sovereign, every AI is instrument. It replaces the old fixed-threshold cross-tier veto with a reversible pause the People arbitrate, measures the single human office against a continuous Legitimacy Decay Index that drives election and recall, and adds a full succession and incapacity regime so the office can never be frozen, captured, or made permanent. Appendix B of the full document records the change in detail. Versions 2.1 through 2.5 then narrowed the architecture further, withdrew claims I could not defend, and disclosed costs that had been left unstated. Every one of those amendments is logged with its reason in Appendix C.
+**Your vote counts once, and nobody knows it was yours.** The system verifies ballots, not people. It never needs to know who voted and is built so it cannot find out. This matters because fake participants are cheap and getting cheaper, and a million manufactured voices can outvote a town. Where someone cannot verify through no fault of their own, the default is to let them vote.
 
-## What it deliberately does not do
+**The same rules reach everyone.** One vote each. The heaviest sanctions apply to the worst crimes regardless of who committed them. Every conviction at that level gets reviewed again on a clock, with outside defense counsel, looking for reasons it was wrong.
 
-- It does not bind non-ratifying populations on ordinary matters.
-- It does not claim authority to take human life. No capital punishment.
-- It does not let AI overrule a human's judgment, or start a coercive emergency on its own.
-- It does not promise speed; bounded-capital reform on a multi-decade horizon is the realistic timeline.
-- It does not eliminate struggle, optimize daily life, or solve the human question. It is a floor, not a ceiling.
+**You can talk. You cannot pay.** Speech, writing, assembly, petition, and volunteering are protected. Transferring money or anything of value to an official is not. That includes jobs promised later, sponsored research, and the revolving door.
+
+**Nothing runs on a rule it will not say out loud.** Every rule public in principle. Dissents published. Minority reports required. An official who declares an emergency that turns out to have been overstated carries personal liability for it.
+
+**A floor under everyone.** Food, water, shelter, healthcare, education, energy, and information access. Not as charity. Somebody choosing between rent and a prescription is not going to research a ballot measure, and self-government has a capacity requirement. Education runs through advanced study, and the assistant puts it within reach of anyone regardless of where they live or what they earn.
+
+**Pay for cures, not for management.** Public prizes for curing high-harm diseases, with the results manufactured at cost instead of owned. The current structure pays more for managing a condition for thirty years than for ending it, and that is a choice somebody already made. The malpractice-driven distortion of care delivery gets restructured too.
+
+**Building beats rent-seeking.** Capital gains on making something taxed lightly. Capital gains on extracting from something taxed heavily. The publicly traded model at planetary scale is named as a corruption vector, and so is the surveillance-advertising business model.
+
+**Permits should not be the reason nothing gets built.** Housing codes, building permits, and healthcare approvals get standardized where they can be and reformed where local variation is real. Bureaucratic corruption gets targeted with the same seriousness as financial corruption.
+
+**Whoever profits from cutting your job pays for the landing.** The company that automates the work carries the retraining and the income bridge, not the taxpayer. No public money or tax break goes to automation that cuts headcount, tested on the actual number afterward rather than on stated intent. Large firms report how many jobs their automation removed, because right now nobody knows. And the document says plainly what it cannot fix: a payment keeps a person fed and does not give them back a place in the world.
+
+**Credit should describe who you are now.** A resolved problem should stop following someone on a fixed schedule disconnected from what they have actually done since.
+
+**The places people live do not get wrecked, and you get a say over what goes in near you.** Clean water in the floor. Large-scale ecological destruction treated as one of the gravest crimes there is. The system pays full retail for its own power and water, takes no tax breaks, may never push its costs onto a household bill, and may build nothing in a community that has not said yes.
+
+**Prison is what happens after everything else failed.** Restitution, supervised liberty, and treatment come first. Prison is for when public safety requires it, not as the default. Nobody under the age of majority can be held permanently for an ordinary crime. Where children turn up inside an atrocity, the adults who put them there are the first target.
+
+**Attention is treated as a commons.** It can be polluted, captured, and extracted, so concentration of attention-shaping power above a threshold triggers automatic review. Your right to know how content is shaped for you, and to change it, outranks every other commitment in that section when they conflict.
+
+**Problems that take decades get funded like they take decades.** Bounties reserved for generational work. Every authority expires so permanence has to be earned again instead of inherited.
+
+## How it's built
+
+**Only humans are sovereign. Every AI is an instrument.**
+
+- **The foundation:** a private AI assistant for every person. Yours, aligned to you, never the system's sensor. It is what makes one-person-one-vote real instead of formal.
+- **Tier 1, the humans:** the People, and one elected office called the Tribune. Co-equal, neither above the other. The Tribune brokers, speaks for the system, and can slow things down. It cannot pass a law, raise a tax, spend a dollar, or punish anyone alone. One six-year term. Never again.
+- **Tier 2, the instrument:** a citizens' council drawn by lot, the per-community representative AIs, and a twelve-member audit body. Three branches, none sovereign, each checking the other two.
+
+Power runs through one spine. Any branch can pull a low-bar reversible pause on an action, and the People settle any reversal. Civilization-scale emergencies need a high bar to authorize, expire by default, and escalate to the People for anything irreversible.
+
+**Consent, in two regimes.** Ordinary action binds only communities that ratified it, and grows by earning it. One narrow exception is named rather than buried: for a short list of risks that could end civilization, it claims authority to make governments share information and take part in a joint response. That reaches governments and never persons.
+
+## What keeps it that way
+
+This is the part most proposals skip. A list of things a country should be is worth nothing without a mechanism that holds when the people in charge stop wanting it.
+
+- **Everything expires.** Every authorization, every emergency power, every law ends on a date unless somebody makes the case again against evidence.
+- **A public self-audit every five years,** on a fixed agenda: every major action, every emergency and the judgment that triggered it, the floor measured against actual outcomes, every permanent sentence rechecked for new exoneration evidence, every open question, and amendments proposed in the open.
+- **Standing with the governed is measured, not assumed.** Sustained loss of it triggers a fresh election. A sharper loss triggers recall. Any member of the lower tier can be recalled without dissolving the branch.
+- **Quarterly public audits between cycles,** plus annual review by independent red teams that hold kill-switch authority.
+- **Every amendment to this document is logged with its reason,** including the ones where I was wrong and had to withdraw a claim. Appendix C is that record.
+
+## What it does not address
+
+Worth saying plainly, because a document that only lists what it covers is hiding something.
+
+Immigration. Family formation. Food quality and agricultural policy, beyond putting nutrition in the floor. Foreign policy, beyond refusing military authority outright.
+
+And a common national identity, which it actively runs against. The preamble holds that humanity is plural, and that governance requiring uniformity in order to function is conquest rather than governance.
 
 ## What's still open
 
-Real questions remain, and the document carries them in the open rather than behind confident assertions: consortium selection for the AI oversight body, specific economic transition mechanisms, the One-Vote Standard protocol specification, religious and spiritual authority navigation, and the architecture's response to coordinated authoritarian opposition. The hardest is named plainly: someone has to start it, and there is no perfectly fair way to do that.
+Real questions, carried in the open rather than behind confident assertions. How the first audit consortia get chosen. The economic transition mechanics. The One-Vote Standard's protocol specification. What happens when religious authority and engine principles conflict. What the architecture does against organized authoritarian opposition.
+
+The hardest one is named plainly: somebody has to start it, and there is no perfectly fair way to do that.
 
 ## How to engage
 
-Read the document and tear into it. Specific sections, specific problems, specific fixes. Or take what is useful and build something different.
+Read it and tear into it. Specific sections, specific problems, specific fixes. Or take what is useful and build something else.
 
-The architecture was built and hardened through a four-model adversarial council methodology (GPT, Gemini, Grok, Claude). v2.0 rebuilds the governance core and is offered for the same scrutiny.
+Issues for problems. Pull requests for text. Discussions for the argument.
 
-Issues for specific problems. PRs for text changes. Discussions for the broader conversation.
+The architecture was built and hardened through a four-model adversarial review process (GPT, Gemini, Grok, Claude), then run against four hostile readers picked because they would object. It is offered for more of the same.
 
 ## Author
 
-Preston T. Winters, solo product builder, Coos County, Oregon. Co-authored with Claude (Anthropic) over multiple working sessions. No organization behind this, no funding ask.
+Preston T. Winters, solo product builder, Coos County, Oregon. Written with Claude (Anthropic) across many sessions. No organization behind it, no funding ask.
 
-I also build and sell AI software, including the memory engine and personal companion linked under Related work below, and this architecture describes a personal companion as public infrastructure. I stand to gain if this direction wins. That is a conflict of interest and you should weigh it. I wrote the architecture to be provider-neutral, and if someone builds a better version of that layer than mine, they should win it. The document is offered into a conversation humanity is not yet having seriously enough.
+I also build and sell AI software, including the memory engine and personal companion linked below, and this architecture describes a personal companion as public infrastructure. I stand to gain if this direction wins. That is a conflict of interest and you should weigh it. I wrote the architecture to be provider-neutral, and if someone builds a better version of that layer than mine, they should win it.
 
 The window is closing. Better governance will not arrive on its own.
 
@@ -132,23 +144,21 @@ CC BY-SA 4.0. Attribution required, derivatives share alike.
 
 Until August 8, 2026 the `LICENSE` file in this repository contained CC0 1.0 text while every document in it stated CC BY-SA 4.0. The file has been corrected to match the documents. Creative Commons grants are irrevocable, so anyone who received this work while the CC0 file was present retains that grant. Everything from the correction forward is CC BY-SA 4.0.
 
-You are free to share, adapt, and build upon this work, including commercially, as long as you give credit and license your contributions the same way. Full terms: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+You are free to share, adapt, and build on this work, including commercially, as long as you give credit and license your contributions the same way. Full terms: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.5). https://github.com/Preston2012/ouroboros
+Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at
+Community Scale and Grows Only by Consent (Version 2.5).
+https://github.com/Preston2012/ouroboros
 ```
-
----
 
 ## Related work
 
-This document does not exist in isolation. It sits alongside two other open-source projects, each addressing a different layer of the same problem.
+- **[Demiurge](https://github.com/Preston2012/demi).** The refusal-first memory engine that makes the personal companion implementable. Open source. TypeScript, SQLite, ONNX. Ships as an MCP server and REST API.
+- **[AI Council](https://github.com/Preston2012/ai-council).** The multi-model review method used to draft and audit this document, applied to building production software.
 
-- **[Demiurge](https://github.com/Preston2012/demi).** The refusal-first memory engine that makes the personal companion implementable. Open-source. TypeScript + SQLite + ONNX. Ships as MCP server + REST API.
-- **[AI Council](https://github.com/Preston2012/ai-council).** The multi-model orchestration methodology used to draft, audit, and refine this document. Same method, 500+ sessions, applied to building production software.
+Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec and benchmark for personal AI memory providers, operationalizing the privacy commitments above.
 
-Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec + benchmark for personal AI memory providers. Operationalizes the personal companion privacy commitments.
-
-[Preston Winters](https://github.com/Preston2012). Solo author. Critique welcome at [preston@winterscode.com](mailto:preston@winterscode.com).
+[Preston Winters](https://github.com/Preston2012). Critique welcome at [preston@winterscode.com](mailto:preston@winterscode.com).
