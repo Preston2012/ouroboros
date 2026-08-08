@@ -60,6 +60,7 @@ SUBTITLE_BRIEF = "The whole idea in five minutes"
 
 LICENSE_LINE = "Released under Creative Commons Attribution-ShareAlike 4.0"
 REPO_URL = "github.com/Preston2012/ouroboros"
+REPO_URL_BASE = "https://github.com/Preston2012/ouroboros/blob/main/"
 AUTHOR = "Preston T. Winters"
 AUTHOR_LINE = "Authored by Preston T. Winters with Claude (Anthropic)"
 
@@ -84,6 +85,12 @@ def detect_version(front):
 
 
 def render_body(body_md):
+    # Relative links work on GitHub and are dead in a downloaded PDF, which is
+    # the file most people actually keep. Rewrite them to absolute repository
+    # URLs so the PDFs stand alone.
+    body_md = re.sub(r'\]\(\./', "](" + REPO_URL_BASE, body_md)
+    body_md = re.sub(r'\]\(\.\./', "](" + REPO_URL_BASE, body_md)
+
     # Source markdown is deliberately plain ASCII so it greps cleanly and
     # copies safely. Typographic quotes are produced here at render time
     # instead. Dash and ellipsis substitution stays off: this project does not

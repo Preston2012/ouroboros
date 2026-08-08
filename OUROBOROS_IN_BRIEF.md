@@ -45,9 +45,17 @@ It rests on a few plain commitments.
 
 **Whoever profits from replacing your job pays for the landing.** When a company automates work away, that company covers retraining and a bridge for the people it let go. Not the public. No public money or tax break goes to automation that cuts jobs, judged on actual headcount rather than on what the company says it intended, and large companies have to report how many jobs their automation removed, because right now nobody knows the real number. The document also says plainly what it cannot fix: a check keeps you fed, and it does not give you back a place in the world.
 
-**It pays its own power bill.** Running the shared parts of this takes data centers, and data centers take electricity and water. Your own assistant is not one of them: it runs on the phone or computer you already own, which is why the design requires it to stay small and local instead of sending every question to somebody's data center. Data centers are already pushing up utility bills in a lot of places. So the system binds itself harder than it binds anyone else: full retail price for power and water, no tax breaks, never shifting its costs onto your bill, and nothing built in a community that has not said yes to it. It publishes what it uses in real numbers, estimated before it builds and measured after.
+**It pays its own power bill.** The shared parts of this run on data centers, and data centers take electricity and water. Your own assistant is not one of them: it runs on the phone or computer you already own, which is why the design requires it to stay small and local instead of sending every question off to somebody's server.
 
-The whole design assumes, from day one, that people will try to capture it. So power is split among groups that check each other, every authority is public and time-limited and removable, no AI can ever overrule a human, and every five years the entire system audits itself in the open and can be rewritten. Communities join only if they choose to, and it governs only the ones that say yes. There is one exception and the full document names it plainly rather than burying it: for a short list of threats that could end civilization, a runaway AI or a pandemic among them, it claims the power to make governments share information and take part in a joint response even if they never joined. That reaches governments and never people. It has no authority over anyone's body, movement, home, business, school, or church, at any time, under any emergency, ever. It even names its own hardest unsolved problem out loud, that someone has to start it and there is no perfectly fair way to do that, because a system that hides its weak points cannot be trusted to fix them.
+Data centers are already pushing up utility bills in a lot of places, so the system binds itself harder than it binds anyone else. Full retail price for power and water. No tax breaks. Never shifting its costs onto your bill. Nothing built in a community that has not said yes to it. And it publishes what it uses in real numbers, estimated before it builds and measured after.
+
+**It assumes people will try to capture it.** That assumption is in the design from day one. Power is split among groups that check each other. Every authority is public, time-limited, and removable. No AI can overrule a human. Every five years the whole system audits itself in the open and can be rewritten on the spot.
+
+**Nobody is governed who did not agree to it.** Communities join only if they choose to, and it governs only the ones that say yes.
+
+**There is one exception, and it is named rather than buried.** For a short list of threats that could end civilization, a runaway AI or an engineered pandemic among them, it claims the power to make governments share information and take part in a joint response even if they never joined. That reaches governments and never people. It has no authority over anyone's body, movement, home, business, school, or church, at any time, under any emergency, ever. That last line is written as a description of what the system is rather than a rule it follows, so no emergency can suspend it.
+
+**One problem in here is not solved.** Somebody has to start it, and there is no perfectly fair way to choose who. Whoever picks the first people holds power nobody granted them. Political philosophy has not answered that in two hundred and fifty years, for any system, including the one we live under now. What the design does instead is make the founders' choices temporary: every one of them expires at the first audit, and the people who come later can replace all of them. That is a way of containing the problem, not a solution to it, and the full document says so in those words. A system that hides its weak points cannot be trusted to fix them.
 
 ---
 
@@ -59,4 +67,16 @@ It will take far more than one person to build this, sharpen it, tear into it, a
 
 Here is one serious blueprint, in public, for anyone who wants governance to work better than what we inherited. Take it apart. Make it stronger. Build the version that deserves to win.
 
-*The full architecture, with every mechanism and every open question, is in the complete vision document.*
+---
+
+## If you want the specifics
+
+Everything above is the whole idea. What follows is where to look if you want to check the work or actually build from it.
+
+**[Six Repairs](./supporting/SIX_REPAIRS.md)** is one page. Six changes that come out of this and could be started now, three of them by a city council, a school board, or a union local this year. If you read one more thing, read that one.
+
+**The [full Vision](./OUROBOROS_VISION_v2.md)** is the reference version, about fifty pages, written to be specific enough to argue with and to build from. The parts that are not in this summary at all: what happens to a person inside the justice system and why prison is treated as the response after everything else failed (§VI). Exactly what it takes to authorize an emergency, and every protection attached (§VI). How an economy would transition and what is still unsolved about paying for it (§IV). What the five-year audit actually examines, item by item (§VIII). And every open question, listed rather than smoothed over (§X).
+
+**Appendix C** is the amendment log. It records every change made to this document since release, with the reason, including the claims I could not defend and withdrew. If you want to judge whether this is serious, read that before you read the argument.
+
+*Critique is worth more to this than agreement. If you find something wrong, say so in the open: [github.com/Preston2012/ouroboros](https://github.com/Preston2012/ouroboros)*
