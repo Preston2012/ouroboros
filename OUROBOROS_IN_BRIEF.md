@@ -1,7 +1,7 @@
 # Ouroboros in Brief
 
 *The whole idea in five minutes. The complete architecture is in the full Vision document.*
-*Version 2.4, current as of 2026-08-02. Summarizes Ouroboros Vision v2.4.*
+*Version 2.5, current as of 2026-08-08. Summarizes Ouroboros Vision v2.5.*
 
 ---
 

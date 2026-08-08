@@ -8,9 +8,53 @@
 
 📄 **Full vision:** [Markdown](./OUROBOROS_VISION_v2.md) | [PDF](./OUROBOROS_VISION_v2.pdf). The complete architecture, every mechanism, every open question.
 
-📝 **Current version:** v2.4 (amended August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
+📝 **Current version:** v2.5 (amended August 8, 2026; v2.4 and v2.2 August 2, 2026; v2.1 August 1, 2026; v2.0 released June 15, 2026). Every amendment is logged in Appendix C of the Vision. v1.0 is [archived](./archive/).
 
 🗳️ **Supporting documents** (in [/supporting](./supporting/)): [Six Repairs](./supporting/SIX_REPAIRS.md), a one-page near-term program drawn from the architecture. [The Convention We Never Held](./supporting/THE_CONVENTION_WE_NEVER_HELD.md), the working brief behind it, including where each repair can legally be adopted today and where it cannot. [Sources and Support](./supporting/SOURCES_AND_SUPPORT.md), every claim of public support graded, with weak sources named as weak.
+
+---
+
+## Is this direct democracy?
+
+No. It keeps one part of direct democracy and rejects the rest, and the reasons matter more than the label.
+
+**What it keeps.** One human, one vote, with no weight differentials of any kind: no property qualification, no credential test, no productivity weighting. Direct ratification by the whole franchise on constitutional questions, on amendments to the first principles, and on the five-year audit. On the things that define the system, the people decide directly and nobody decides for them.
+
+**What it rejects, and why.** Majority vote on everything, for three reasons.
+
+Volume. Nobody can vote on everything. In any system that asks them to, the small group that actually shows up decides, which is capture with extra steps and a better story.
+
+Preparation. Technical questions put to an unprepared electorate get decided by whoever mobilizes best, not by whoever is right. This is why the architecture spends so much of its length on the floor and on the personal assistant: participation without the capacity to deliberate is participation in name.
+
+Rights. A majority can vote to strip a minority. This is why a short list of prohibitions in the architecture is deliberately not votable, including the rule that the system may never reach a person's body, movement, home, business, school, or place of worship, under any emergency, ever. A system where everything is up for a vote is a system where your protections are up for a vote.
+
+**What it uses instead.** Direct ratification at the constitutional layer. Citizen councils drawn by lot rather than elected, on jury logic, so the body that watches for capture cannot be campaigned into place. One elected human office that can slow a decision, return it, and force re-deliberation, and that cannot override what the franchise decides. Machine instruments that publish what they find and hold no authority to act on it.
+
+Call it a hybrid. Direct where direct works, sortition where independence matters more than a mandate, and one elected office with a delay button and no sword.
+
+---
+
+## What this actually commits to
+
+A plain list, for anyone arriving from a search rather than from the argument. Each of these is stated in the Vision and most are load-bearing rather than decorative.
+
+**Fairness, meaning the same rules reach everyone.** One vote each. No purchased influence, defined as a prohibition on transfers of value rather than on speech. The most severe sanctions apply to civilizational-scale crimes regardless of the standing of the person who committed them.
+
+**Honesty as a structural requirement.** Every rule public in principle. Published dissent logs and mandatory minority reports. Personal liability attaching to officials who invoke emergency authority under a crisis later found to have been overstated. Every amendment to this document logged with its reason, which is why Appendix C exists.
+
+**Health, and the incentive that currently works against it.** Healthcare in the shared floor. Prizes for curing diseases rather than managing them, because the present structure pays more for thirty years of management than for an ending, and cures developed on public money are manufactured at cost rather than owned.
+
+**Production over extraction.** Capital gains on building taxed lightly and capital gains on rent-seeking taxed heavily. The publicly-traded model at planetary scale named as a corruption vector. The surveillance-economy business model named as an example of the same dynamic.
+
+**Surroundings that are not degraded, and local consent over what is built near you.** Clean water in the shared floor. Large-scale ecological destruction treated as a civilizational-scale crime. The system pays full retail for its own power and water, takes no tax preference, may never shift its costs onto a household bill, and may build nothing in a community that has not said yes to it.
+
+**Consent as the default and coercion named where it exists.** The architecture binds only communities that ratify it. One narrow exception is stated in plain words instead of hidden: for a short list of risks that could end civilization it claims authority to require governments to share information and take part in a joint response. That reaches governments and never persons.
+
+**Refusal of atrocity.** No authority to take a human life, ever, and no military authority of any kind. Genocide, ecocide at civilizational scale, mass crimes against humanity, and organized exploitation of children are the only offenses that reach permanent containment.
+
+**Long horizons.** Bounties reserved for problems that need decades. Every authority expiring by default so that permanence has to be re-earned against evidence rather than inherited.
+
+**What it does not address.** Immigration. Family formation. National identity, which it in fact runs against: the preamble holds that humanity is plural and that governance requiring uniformity to function is conquest rather than governance. If you came here expecting a position on those, there is not one, and inventing one to match a platform would be the kind of thing this document is built to refuse.
 
 ---
 
@@ -52,7 +96,7 @@ Power moves through one spine: a low-bar reversible pause any branch can pull, w
 
 ## What changed in v2
 
-v1.0 described a four-layer stack. v2.0 restructures the governance core into the two tiers above, drawing one line sharply: only humans are sovereign, every AI is instrument. It replaces the old fixed-threshold cross-tier veto with a reversible pause the People arbitrate, measures the single human office against a continuous Legitimacy Decay Index that drives election and recall, and adds a full succession and incapacity regime so the office can never be frozen, captured, or made permanent. Appendix B of the full document records the change in detail. Versions 2.1 through 2.4 then narrowed the architecture further, withdrew claims I could not defend, and disclosed costs that had been left unstated. Every one of those amendments is logged with its reason in Appendix C.
+v1.0 described a four-layer stack. v2.0 restructures the governance core into the two tiers above, drawing one line sharply: only humans are sovereign, every AI is instrument. It replaces the old fixed-threshold cross-tier veto with a reversible pause the People arbitrate, measures the single human office against a continuous Legitimacy Decay Index that drives election and recall, and adds a full succession and incapacity regime so the office can never be frozen, captured, or made permanent. Appendix B of the full document records the change in detail. Versions 2.1 through 2.5 then narrowed the architecture further, withdrew claims I could not defend, and disclosed costs that had been left unstated. Every one of those amendments is logged with its reason in Appendix C.
 
 ## What it deliberately does not do
 
@@ -84,12 +128,16 @@ The window is closing. Better governance will not arrive on its own.
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share, adapt, and build upon this work, including for commercial purposes, as long as you give appropriate credit and distribute your contributions under the same license.
+CC BY-SA 4.0. Attribution required, derivatives share alike.
+
+Until August 8, 2026 the `LICENSE` file in this repository contained CC0 1.0 text while every document in it stated CC BY-SA 4.0. The file has been corrected to match the documents. Creative Commons grants are irrevocable, so anyone who received this work while the CC0 file was present retains that grant. Everything from the correction forward is CC BY-SA 4.0.
+
+You are free to share, adapt, and build upon this work, including commercially, as long as you give credit and license your contributions the same way. Full terms: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Citation
 
 ```
-Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.4). https://github.com/Preston2012/ouroboros
+Winters, P. T. (2026). Ouroboros: Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent (Version 2.5). https://github.com/Preston2012/ouroboros
 ```
 
 ---

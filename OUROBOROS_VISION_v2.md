@@ -2,7 +2,7 @@
 
 ### Self-Auditing Governance That Starts at Community Scale and Grows Only by Consent
 
-*Version 2.4, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01 and 2026-08-02 (see Appendix C).*
+*Version 2.5, Genesis Project. Version 2.0 released 2026-06-15; amended 2026-08-01, 2026-08-02, and 2026-08-08 (see Appendix C).*
 *Authored by Preston T. Winters with Claude (Anthropic)*
 *Supersedes Version 1.0. Open for refinement, contestation, and improvement through the standard process the document describes.*
 
@@ -711,6 +711,16 @@ Version 2.0 was released 2026-06-15. The amendments below were made 2026-08-01 a
 **Acknowledged limits.** Added: the engine has no answer to what a person is for when the work is gone, and holds that question outside its own authority.
 
 Every one of these amendments narrowed the engine's power, removed a claim I could not defend, or disclosed a cost that had been left unstated. None expanded its authority.
+
+### Amendments of 2026-08-08 (Version 2.5)
+
+**No architectural content changed in this version.** It corrects the repository's license file and adds two reader-facing sections to the README. It is logged because the license change alters what the repository grants, and a change of that kind should never happen quietly.
+
+**License file corrected.** The `LICENSE` file contained CC0 1.0 text, which waives all rights including attribution, while this document and twelve other places in the repository stated CC BY-SA 4.0, which requires attribution and share-alike. The file was the outlier and has been replaced with the CC BY-SA 4.0 text. Creative Commons grants are irrevocable, so anyone who received this work while the CC0 file was present retains that grant; everything forward is CC BY-SA 4.0. The defect had been live since the repository was made public on 2026-05-02.
+
+**Repository description corrected.** The description field still read "A Vision for Planetary Governance That Compounds on Behalf of Humanity," the exact phrasing the 2026-08-01 amendments withdrew for being more threatening and less accurate than what the architecture does. The description is metadata rather than a file, which is why it survived a pass that corrected every document. It now matches the subtitle.
+
+**Two sections added to the README.** One answers whether this is direct democracy, which it is not, and states what it keeps from direct democracy and the three reasons it rejects majority vote on everything. The other lists in plain terms what the architecture commits to, for readers who arrive from a search rather than from the argument, and names what it does not address: immigration, family formation, and national identity, the last of which it runs against, since the preamble holds that governance requiring uniformity is conquest.
 
 ### Amendments of 2026-08-02, third pass (Version 2.4)
 
